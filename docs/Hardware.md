@@ -7,6 +7,7 @@ Lego
 Kalkulation-Hardware
 Atom-Erweiterungen
 HutschienenMoped
+HutschienenMopedXL
 HutschienenMoped-Stecker
 HutschienenMoped-Eingaenge
 HutschienenMoped-Erweiterungen
