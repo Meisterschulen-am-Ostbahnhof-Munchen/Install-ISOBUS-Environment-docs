@@ -11,7 +11,8 @@ In diesem Kapitel werden wir uns näher mit den Eigenschaften und Funktionen des
 ```{image} https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/raw/main/images/U%CC%88bersicht2.jpeg
 ```
 
-<https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS_Hardware/tree/master/Rail>
+<https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS_Hardware/tree/master/Hutschienenmoped>
+
 
 Das Hutschienenmoped kann wahlweise mit einem 4-poligen oder einem 6-Poligem Kabel betrieben werden.
 
