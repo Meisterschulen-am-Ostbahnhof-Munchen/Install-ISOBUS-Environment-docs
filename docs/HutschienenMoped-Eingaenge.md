@@ -127,7 +127,7 @@ Weil:
 
 [https://www.seeedstudio.com/category/Grove-c-1003.html](https://www.seeedstudio.com/category/Grove-c-1003.html)
 
-[https://www.exp-tech.de/seeed-grove-wiki](https://www.exp-tech.de/seeed-grove-wiki)
+<https://exp-tech.de/search?type=product&q=grove>
 
 [https://www.distrelec.de/search?q=grove](https://www.distrelec.de/search?q=grove)
 
