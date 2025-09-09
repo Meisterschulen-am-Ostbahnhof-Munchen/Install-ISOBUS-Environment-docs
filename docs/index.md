@@ -9,16 +9,9 @@ myst:
     "property=og:locale": "de"
 ---
 
-
-```{include} ../README.md
-```
-
 **Welcome to Install-ISOBUS-Environment documentation!**
 
-:::{tip}
-If you'd like to *automatically* generate targets for each of your section headers,
-check out the [](syntax/header-anchors) section of extended syntaxes.
-:::
+Main Menu: <https://www.ms-muc-docs.de/>
 
 :::{note}
 This project is under active development.
