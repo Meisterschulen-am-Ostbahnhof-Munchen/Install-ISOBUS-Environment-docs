@@ -10,7 +10,6 @@ project = "Grundlagen der C-Programmierung in ISOBUS (1)"
 copyright = "2022-2025, Meisterschulen am Ostbahnhof - München"
 author = "Franz Höpfinger"
 
-html_baseurl = "https://docs.ms-muc-docs.de/projects/install-isobus-environment-docs"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
