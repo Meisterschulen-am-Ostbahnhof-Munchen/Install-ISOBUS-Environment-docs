@@ -1,51 +1,61 @@
 # HutschienenMoped
 
-Das Hutschienenmoped der Meisterschulen am Ostbahnhof ist eine innovatives ECU, das sich perfekt für den Einsatz in Industrieumgebungen eignet. Es ist kompakt, leicht und dennoch robust genug, um in rauen Umgebungen eingesetzt zu werden. Das Hutschienenmoped wird mithilfe von Hutschienen befestigt und ist somit in der Lage, sich schnell und zuverlässig an neue Anforderungen anzupassen.
+Das **Hutschienenmoped** der Meisterschulen am Ostbahnhof ist eine innovative ECU (Electronic Control Unit), die sich perfekt für den Einsatz in Industrieumgebungen eignet. Es ist kompakt, leicht und dennoch robust genug, um in rauen Umgebungen zu bestehen. Dank der Befestigungsmöglichkeit auf Hutschienen kann es sich schnell und zuverlässig an neue Anforderungen anpassen.
 
-Das Hutschienenmoped ist mit einem ISOBUS-System ausgestattet, das es ermöglicht, das Moped mit anderen Maschinen und Geräten zu verbinden und zu kommunizieren. Dies ermöglicht es, das Moped in verschiedenen Industrieanwendungen einzusetzen, von der Logistik bis hin zur Fertigung.
+### 🌟 Highlights
+* **ISOBUS-System:** Ermöglicht die Verbindung und Kommunikation mit anderen Maschinen und Geräten.
+* **Vielseitigkeit:** Einsatz in verschiedenen Industrieanwendungen, von der Logistik bis zur Fertigung.
+* **Flexibilität:** Wahlweise Betrieb mit 4-poligem oder 6-poligem Kabel.
 
-In diesem Kapitel werden wir uns näher mit den Eigenschaften und Funktionen des Hutschienenmopeds beschäftigen und zeigen, wie man es in eine ISOBUS-Umgebung integrieren kann. Wir werden auch einige Beispiele für mögliche Anwendungen des Hutschienenmopeds vorstellen und zeigen, wie es in der Praxis eingesetzt werden kann.
+---
 
-<https://obstwein-technik.eu/App_Upload/User/U%CC%88bersicht2.JPG>
+## 📂 Repository & Ressourcen
 
-```{image} https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/raw/main/images/U%CC%88bersicht2.jpeg
-```
+Der Quellcode und die Hardware-Dateien liegen im GitHub-Repository:
+[📂 GitHub: Hutschienenmoped](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS_Hardware/tree/master/Hutschienenmoped)
 
-<https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS_Hardware/tree/master/Hutschienenmoped>
+---
 
+## ⚡ Anschluss & Belegung
 
-Das Hutschienenmoped kann wahlweise mit einem 4-poligen oder einem 6-Poligem Kabel betrieben werden.
+Das Hutschienenmoped verfügt über abgesicherte Ausgänge und flexible Anschlussmöglichkeiten.
 
-die einzelnen Ausgänge sind abgesichert durch die verwendeten MOSFET, siehe Datenblatt,
+* **Absicherung:** Die einzelnen Ausgänge sind durch MOSFETs abgesichert (siehe Datenblatt).
+* **Stromversorgung:** Die Spannungseinspeisung benötigt zum Leitungsschutz eine externe Sicherung.
 
-die Spannungseinspeisung benötigt zum Leitungsschutz eine Sicherung.
+### Pinbelegung
+![Übersicht Pinbelegung](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/raw/main/images/U%CC%88bersicht2.jpeg)
 
-für den Betrieb mit dem 4-Poligen Kabel werden 2 Brücken gesteckt.
+---
 
-```{image} https://user-images.githubusercontent.com/69573151/131333242-37b01669-0a5e-4522-ae8c-900cef21592d.png
-```
+## ⚙️ Konfiguration (4-Pol vs. 6-Pol)
 
-```{image} https://user-images.githubusercontent.com/69573151/131331910-578d9168-a6c1-4cf7-9bb2-5b77f2ccbbf9.png
-```
+Das Gerät kann je nach Anwendungsfall unterschiedlich betrieben werden.
 
-```{image} https://user-images.githubusercontent.com/69573151/130034499-ade4596b-8bae-4b48-abe8-2d4ee707ee7e.jpeg
-```
+### Betrieb mit 4-poligem Kabel
+Für den Betrieb mit einem 4-poligen Kabel müssen **zwei Brücken** gesteckt werden.
 
-```{image} https://user-images.githubusercontent.com/69573151/131330184-93827d18-490c-441f-bc93-b73dbf996116.jpg
-```
+| Ansicht | Beschreibung |
+| :--- | :--- |
+| ![Brücken Ansicht 1](https://user-images.githubusercontent.com/69573151/131333242-37b01669-0a5e-4522-ae8c-900cef21592d.png) | **Position der Brücken**<br>Detailansicht der Steckplätze. |
+| ![Brücken Ansicht 2](https://user-images.githubusercontent.com/69573151/131331910-578d9168-a6c1-4cf7-9bb2-5b77f2ccbbf9.png) | **Schematische Darstellung**<br>Visualisierung der Brückenverbindung. |
 
-```{image} https://user-images.githubusercontent.com/69573151/131330185-a5d692ec-0d46-441e-a151-64e2bf59f1b0.jpg
-```
+---
 
-Montage auf eine Tragschiene
+## 📸 Galerie & Montage
 
-```{image} https://user-images.githubusercontent.com/69573151/131330181-5c6e684e-a757-45c4-ad04-8df08671e7e3.jpg
-```
+Das Gehäuse ist für verschiedene Montageszenarien ausgelegt.
 
-Wandmontage
+### Hardware-Ansichten
 
-```{image} https://user-images.githubusercontent.com/69573151/131330182-306f53df-81f9-43d6-97c5-6507573636bf.jpg
-```
+| Ansicht | Beschreibung |
+| :--- | :--- |
+| ![PCB Ansicht](https://user-images.githubusercontent.com/69573151/130034499-ade4596b-8bae-4b48-abe8-2d4ee707ee7e.jpeg) | **Platine (Bestückt)**<br>Blick auf die Komponenten. |
+| ![Gehäuse offen](https://user-images.githubusercontent.com/69573151/131330184-93827d18-490c-441f-bc93-b73dbf996116.jpg) | **Gehäuse geöffnet**<br>Innenansicht. |
+| ![Gehäuse geschlossen](https://user-images.githubusercontent.com/69573151/131330185-a5d692ec-0d46-441e-a151-64e2bf59f1b0.jpg) | **Gehäuse geschlossen**<br>Frontansicht. |
 
-```{image} https://user-images.githubusercontent.com/69573151/131330183-92ab4422-f9f1-42fa-8dcd-2d5a47942687.jpg
-```
+### Montageoptionen
+
+| Tragschiene (Hutschiene) | Wandmontage |
+| :--- | :--- |
+| ![Tragschienenmontage](https://user-images.githubusercontent.com/69573151/131330181-5c6e684e-a757-45c4-ad04-8df08671e7e3.jpg) | ![Wandmontage 1](https://user-images.githubusercontent.com/69573151/131330182-306f53df-81f9-43d6-97c5-6507573636bf.jpg)<br><br>![Wandmontage 2](https://user-images.githubusercontent.com/69573151/131330183-92ab4422-f9f1-42fa-8dcd-2d5a47942687.jpg) |
