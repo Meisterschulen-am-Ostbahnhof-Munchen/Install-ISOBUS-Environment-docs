@@ -1,5 +1,8 @@
 # cci_EasyExample_CAN2IP
 
+```{index} single: cci_EasyExample_CAN2IP
+```
+
 Besondere Umstände erfordern besondere Maßnahmen:
 
 - führen Sie einen PULL auf cci_EasyExample aus

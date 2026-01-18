@@ -13,6 +13,9 @@ myst:
   <img src="logos/Meisterschulen_LogoG1_4c.gif" alt="Logo Meisterschulen am Ostbahnhof" width="400">
 
 # Wiki 1: C-Programmierung in ISOBUS
+
+```{index} single: Wiki 1: C-Programmierung in ISOBUS
+```
 ## Meisterschulen am Ostbahnhof, München
 
 ---

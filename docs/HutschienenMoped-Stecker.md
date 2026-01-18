@@ -1,5 +1,8 @@
 # HutschienenMoped Stecker
 
+```{index} single: HutschienenMoped Stecker
+```
+
 Diese Fotostrecke dokumentiert die korrekte Verkabelung und die verwendeten Steckertypen für das „HutschienenMoped“-Modul.
 
 ## 1. Grundlegende Verdrahtung und Anschlüsse

@@ -1,5 +1,8 @@
 # HutschienenMoped Eingänge
 
+```{index} single: HutschienenMoped Eingänge
+```
+
 ## Unterscheidung von Endschaltern für Pneumatikzylinder:
 
 [https://www.ifm.com/at/de/shared/produkte/zylindersensoren/technologie](https://www.ifm.com/at/de/shared/produkte/zylindersensoren/technologie)

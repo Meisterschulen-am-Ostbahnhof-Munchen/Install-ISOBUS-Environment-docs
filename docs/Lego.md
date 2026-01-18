@@ -1,5 +1,8 @@
 # Lego
 
+```{index} single: Lego
+```
+
 \<<https://www.1000steine.de/de/gemeinschaft/forum/?entry=1&id=442294>
 
 [\<https://youtu.be/z4hOIl2aygs](https://youtu.be/z4hOIl2aygs)

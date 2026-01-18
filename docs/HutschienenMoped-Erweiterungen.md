@@ -1,5 +1,8 @@
 # HutschienenMoped Erweiterungen
 
+```{index} single: HutschienenMoped Erweiterungen
+```
+
 siehe auch:
 
 <https://install-isobus-environment-docs.readthedocs.io/de/latest/Atom-Erweiterungen.html>

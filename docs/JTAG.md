@@ -1,5 +1,8 @@
 # JTAG
 
+```{index} single: JTAG
+```
+
 ## JTAG Schritt\_01:
 
 jetzt richten wir JTAG ein.

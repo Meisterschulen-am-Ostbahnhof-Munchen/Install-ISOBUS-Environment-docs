@@ -1,5 +1,8 @@
 # Hardware
 
+```{index} single: Hardware
+```
+
 ```{toctree}
 Paket
 ISOBUS-Kabel-klein

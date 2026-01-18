@@ -1,5 +1,8 @@
 # blink_on_atom
 
+```{index} single: blink_on_atom
+```
+
 ### Schritt_14:
 
 Jetzt kann man Eclipse wirklich starten:

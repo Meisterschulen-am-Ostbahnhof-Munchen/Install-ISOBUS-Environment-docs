@@ -1,5 +1,8 @@
 # cci_EasyExample
 
+```{index} single: cci_EasyExample
+```
+
 Sie können jetzt ja schon alles:
 
 sie holen sich mit Gitkraken das cci_EasyExample,

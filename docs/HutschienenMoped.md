@@ -1,5 +1,8 @@
 # HutschienenMoped
 
+```{index} single: HutschienenMoped
+```
+
 Das **Hutschienenmoped** der Meisterschulen am Ostbahnhof ist eine innovative ECU (Electronic Control Unit), die sich perfekt für den Einsatz in Industrieumgebungen eignet. Es ist kompakt, leicht und dennoch robust genug, um in rauen Umgebungen zu bestehen. Dank der Befestigungsmöglichkeit auf Hutschienen kann es sich schnell und zuverlässig an neue Anforderungen anpassen.
 
 ### 🌟 Highlights

@@ -1,5 +1,8 @@
 # IsoAgLib-ISOMAN
 
+```{index} single: IsoAgLib-ISOMAN
+```
+
 für diesen Versuch muss der Atom auf dem Sockel stecken. mit der Schraube vorsichtig sichern.
 
 (das ist Kunststoff, da sind keine 500Nm Drehmoment nötig>\`\_

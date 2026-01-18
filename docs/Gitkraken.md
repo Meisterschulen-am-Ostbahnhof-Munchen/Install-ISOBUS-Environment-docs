@@ -1,5 +1,8 @@
 # Installation und Verwendung von Gitkraken:
 
+```{index} single: Installation und Verwendung von Gitkraken:
+```
+
 BEVOR Sie beginnen lesen Sie bitte den Abschnitt zu Github durch.
 
 es ist wichtig dass Sie sich mit ihrer Schul-E-Mail Adresse bei Github angemeldet haben,

@@ -1,5 +1,8 @@
 # Setting-up-II
 
+```{index} single: Setting-up-II
+```
+
 dieses Setup steht ab ca. Januar 2022 zur Verfügung.
 
 \<<https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/index.html>

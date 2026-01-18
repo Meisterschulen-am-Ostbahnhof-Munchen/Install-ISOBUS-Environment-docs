@@ -1,5 +1,8 @@
 # Kalkulation Hardware
 
+```{index} single: Kalkulation Hardware
+```
+
 Unsere ECU basiert auf dem ATOM von M5 Stack. 
 
 Schaltplan:

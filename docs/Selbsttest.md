@@ -1,5 +1,8 @@
 # Selbsttest
 
+```{index} single: Selbsttest
+```
+
 Öffnen Sie die Datei
 
 M:\\Landmaschinenmechanik\\Unterricht\\SL\\esp-idf\\AtomSelbsttest\\EasyLoader_ATOM \_LITE_FactoryTest.exe

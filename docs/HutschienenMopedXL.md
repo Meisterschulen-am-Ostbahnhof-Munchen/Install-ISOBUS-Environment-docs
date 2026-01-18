@@ -1,5 +1,8 @@
 # Hutschienenmoped XL
 
+```{index} single: Hutschienenmoped XL
+```
+
 Das **Hutschienenmoped XL** ist die erweiterte Version unserer Open-Source-ECU. Es wurde speziell für die Integration in ISOBUS-Systeme entwickelt und eignet sich hervorragend für anspruchsvolle Steuerungsaufgaben in der Landtechnik.
 
 ## 🌟 Highlights

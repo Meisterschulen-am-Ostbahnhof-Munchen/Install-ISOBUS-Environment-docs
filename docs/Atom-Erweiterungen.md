@@ -1,5 +1,8 @@
 # Atom Erweiterungen
 
+```{index} single: Atom Erweiterungen
+```
+
 grundsätzlich gehen am GROVE Port alle Erweiterungen von M5 Stack:
 
 <https://shop.m5stack.com/collections/m5-sensor>
