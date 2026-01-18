@@ -2,12 +2,6 @@
 
 ```{index} single: Eagle
 ```
-
-
-Autodesk EAGLE ist ein PCB-Designer zum Erstellen von Layouts für Platinen und Leiterkarten. Die Abkürzung steht für “Einfach Anzuwendender Grafischer Layout Editor” und ist seit der ersten Version 1998 eine der meistverwendeten Programme für die PCB-Gestaltung.
-
-
-
 ## 🎧 Podcast
 
 * [Vom bayerischen Dorf in die Autodesk Cloud: Die faszinierende Metamorphose der Software-Legende EAGLE CAD](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Vom-bayerischen-Dorf-in-die-Autodesk-Cloud-Die-faszinierende-Metamorphose-der-Software-Legende-EAGLE-CAD-e3a5ard)
@@ -22,7 +16,6 @@ On June 7, 2026, EAGLE will no longer be available
 
 [https://www.autodesk.com/products/fusion-360/blog/future-of-autodesk-eagle-fusion-360-electronics/](https://www.autodesk.com/products/fusion-360/blog/future-of-autodesk-eagle-fusion-360-electronics/)
 
-
 ## Installer: 
 
 Autodesk_EAGLE_9.6.2_English_Win_64bit.exe
@@ -34,9 +27,7 @@ dabei Öffnet Eagle kurz, und macht sofort wieder zu.
 
 [https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Eagle-crashes-seconds-after-launching-splash-screen.html](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Eagle-crashes-seconds-after-launching-splash-screen.html)
 
-
 [https://www.youtube.com/watch?v=pyK8LCPOxkk](https://www.youtube.com/watch?v=pyK8LCPOxkk)
-
 
 Die Lösung ist dabei zwei Dateien "libeay32.dll" und "ssleay32.dll" aus dem Paket 
 

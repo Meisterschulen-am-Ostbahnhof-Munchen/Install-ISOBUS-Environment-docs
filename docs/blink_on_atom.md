@@ -13,10 +13,6 @@ C:\\git\\blink_on_atom\\eclipse-workspace
 
 (außer sie haben vorhin auf D:\\git ausgecheckt>\`\_
 
-## 🎧 Podcast
-
-* [4diac IDE: Dein "Hello World" der Automatisierung – Das Blinking Tutorial Lokal](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/4diac-IDE-Dein-Hello-World-der-Automatisierung--Das-Blinking-Tutorial-Lokal-e36971r)
-
 ```{image} https://user-images.githubusercontent.com/69573151/92934821-3effde00-f448-11ea-9631-7ec96373413a.png
 ```
 

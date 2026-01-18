@@ -3,22 +3,6 @@
 ```{index} single: ISOBUS Kabel klein
 ```
 
-## 🎧 Podcast
-
-* [ISOBUS nachrüsten: Kabelsalat war gestern – Die modulare Lösung für Ihre Agrartechnik](https://podcasters.spotify.com/pod/show/logibus/episodes/ISOBUS-nachrsten-Kabelsalat-war-gestern--Die-modulare-Lsung-fr-Ihre-Agrartechnik-e3767p4)
-* [Das Working Set Objekt: Das Gehirn der ISOBUS-Bedienoberfläche verstehen – Von der Norm zur Praxis im ISO-Designer](https://podcasters.spotify.com/pod/show/isobus-vt-objects/episodes/Das-Working-Set-Objekt-Das-Gehirn-der-ISOBUS-Bedienoberflche-verstehen--Von-der-Norm-zur-Praxis-im-ISO-Designer-e36cl5v)
-* [ISOBUS Button: Mehr als nur ein Klick – Die Standardisierung der Landtechnik](https://podcasters.spotify.com/pod/show/isobus-vt-objects/episodes/ISOBUS-Button-Mehr-als-nur-ein-Klick--Die-Standardisierung-der-Landtechnik-e3673rb)
-* [ISOBUS Object Pointer: Das Geheimnis dynamischer Displays und effizienter Fehlerdiagnose](https://podcasters.spotify.com/pod/show/isobus-vt-objects/episodes/ISOBUS-Object-Pointer-Das-Geheimnis-dynamischer-Displays-und-effizienter-Fehlerdiagnose-e36bp75)
-* [ISOBUS Output Meter: Dynamische Anzeigen meistern – vom Zeiger bis zur Visualisierung auf dem VT](https://podcasters.spotify.com/pod/show/isobus-vt-objects/episodes/ISOBUS-Output-Meter-Dynamische-Anzeigen-meistern--vom-Zeiger-bis-zur-Visualisierung-auf-dem-VT-e36t2tp)
-
-## 📺 Video
-
-* [Das tödliche Dilemma des Relais: Warum Silberkontakte bei Kleinsignalen versagen und Gold bei Las...](https://www.youtube.com/watch?v=2UigK8BjsMI)
-* [Das Working Set Objekt: Das Gehirn der ISOBUS-Bedienoberfläche verstehen – Von der Norm zur Praxi...](https://www.youtube.com/watch?v=SiRvrecE_7I)
-* [From Control Box to Custom ISOBUS  A DIY Guide](https://www.youtube.com/watch?v=tlsRGZIfh9I)
-* [ISOBUS-Bedienoberflächen: Wenn Tasten und Hauptanzeige unterschiedlich skalieren – ISO 11783-6 en...](https://www.youtube.com/watch?v=kQM4MLsyj5U)
-* [ISOBUS: The Secret Language](https://www.youtube.com/watch?v=Fezbc5Acd24)
-
 ```{image} https://user-images.githubusercontent.com/69573151/131331123-39cb7561-5a81-4c9a-9c26-83672737a398.jpg
 ```
 

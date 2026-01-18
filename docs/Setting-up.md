@@ -3,12 +3,6 @@
 ```{index} single: Setting-up Installation
 ```
 
-## 📺 Video
-
-* [2025-03-30 19-41-34 Python Installation prüfen](https://www.youtube.com/watch?v=pBo6QPdWtgA)
-* [2025-12-14 19-53-53 Installation Eclipse 4diac™ IDE 3.0.0 und Import des Training1 Projektes](https://www.youtube.com/watch?v=O3S1o_NUyvc)
-* [LogiBUS® ohne Mapping: Vereinfachte Installation & Erste Schritte für Meisterschüler](https://www.youtube.com/watch?v=NsRc1NeoCUQ)
-
 ## Schritt 01:
 
 Hintergrundinfos gibt es hier:  
@@ -53,7 +47,6 @@ wählen Sie 4.3
 hier wird ihnen der Installer "desktop" vorschlagen, mir gefällt das nicht !
 
 ![](https://user-images.githubusercontent.com/69573151/127840259-084f3ce9-8d0c-4779-b7a0-6bc28cbf8860.png)
-
 
 ## Schritt 05:
 

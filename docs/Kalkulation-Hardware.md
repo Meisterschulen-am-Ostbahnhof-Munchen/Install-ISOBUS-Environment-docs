@@ -36,8 +36,3 @@ hier die Kalkulation:
 |   | 47 nF | 1 |   | 0,008 € | 0,016 € | [TMF105B7473KVHF](https://www.mouser.de/ProductDetail/Taiyo-Yuden/TMF105B7473KVHF?qs=sGAEpiMZZMukHu%252BjC5l7YbZJogKwR3uA3eRLE2jFr74%3D) |
 |   | 100 nF | 2 |   | 0,006 € | 0,012 € | [GCM155R71C104KA55D](https://www.mouser.de/ProductDetail/Murata-Electronics/GCM155R71C104KA55D?qs=sGAEpiMZZMukHu%252BjC5l7YeyuOEkAjDobycZoV1p3zeo%3D) |
 | 824098024 oder PESD2CAN | WE-TVS\_SOT23-3L | 1 |   | 0,076 € | 0,076 € | [PESD2CAN215](https://www.mouser.de/ProductDetail/Nexperia/PESD2CAN215?qs=%2Fha2pyFaduitgFsSuyaqyGR977FW4A%2FXKtBkWCOl6s0%3D) |
-## 🎧 Podcast
-
-* [Automatisierung 4.0: Warum Software die Hardware überholt und was das für deine Skills bedeutet](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Automatisierung-4-0-Warum-Software-die-Hardware-berholt-und-was-das-fr-deine-Skills-bedeutet-e375eqs)
-* [SPS: Das Unsichtbare Gehirn der Industrie – Von robuster Hardware zur IT/OT-Konvergenz](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/SPS-Das-Unsichtbare-Gehirn-der-Industrie--Von-robuster-Hardware-zur-ITOT-Konvergenz-e375g1f)
-* [Universal Automation: So entkoppeln Sie Software und Hardware für die Zukunft der Industrie](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Universal-Automation-So-entkoppeln-Sie-Software-und-Hardware-fr-die-Zukunft-der-Industrie-e36849a)

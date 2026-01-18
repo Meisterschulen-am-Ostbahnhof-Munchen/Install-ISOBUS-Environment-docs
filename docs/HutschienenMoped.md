@@ -2,14 +2,6 @@
 
 ```{index} single: HutschienenMoped
 ```
-
-Das **Hutschienenmoped** der Meisterschulen am Ostbahnhof ist eine innovative ECU (Electronic Control Unit), die sich perfekt für den Einsatz in Industrieumgebungen eignet. Es ist kompakt, leicht und dennoch robust genug, um in rauen Umgebungen zu bestehen. Dank der Befestigungsmöglichkeit auf Hutschienen kann es sich schnell und zuverlässig an neue Anforderungen anpassen.
-
-### 🌟 Highlights
-* **ISOBUS-System:** Ermöglicht die Verbindung und Kommunikation mit anderen Maschinen und Geräten.
-* **Vielseitigkeit:** Einsatz in verschiedenen Industrieanwendungen, von der Logistik bis zur Fertigung.
-* **Flexibilität:** Wahlweise Betrieb mit 4-poligem oder 6-poligem Kabel.
-
 ## 🎧 Podcast
 
 * [Hutschienenmoped XL: ISOBUS ECU Entwicklung](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Hutschienenmoped-XL-ISOBUS-ECU-Entwicklung-e368hdg)
@@ -21,8 +13,6 @@ Das **Hutschienenmoped** der Meisterschulen am Ostbahnhof ist eine innovative EC
 * [2025-11-13 17-50-42 Montage Hutschienenmoped logiBUS® -- Teil 1 -- Einführung und Löten](https://www.youtube.com/watch?v=HWBMBVLMPiw)
 * [2025-11-15 12-19-33 Montage Hutschienenmoped logiBUS® -- Teil 2 -- Einführung und Löten](https://www.youtube.com/watch?v=nohE36SZY9M)
 * [2025-12-14 20-03-27 Aufspielen Training 1 Übung 1 auf das Hutschienenmoped.](https://www.youtube.com/watch?v=6iog7-DZvW0)
-
----
 
 ## 📂 Repository & Ressourcen
 
