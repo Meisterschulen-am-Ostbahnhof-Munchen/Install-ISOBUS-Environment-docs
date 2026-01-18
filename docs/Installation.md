@@ -1,5 +1,8 @@
 # Installation
 
+```{index} single: Installation
+```
+
 ```{toctree}
 Setting-up
 Setting-up-(LINUX)
