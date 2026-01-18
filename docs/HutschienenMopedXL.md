@@ -5,6 +5,18 @@
 
 Das **Hutschienenmoped XL** ist die erweiterte Version unserer Open-Source-ECU. Es wurde speziell für die Integration in ISOBUS-Systeme entwickelt und eignet sich hervorragend für anspruchsvolle Steuerungsaufgaben in der Landtechnik.
 
+## 🎧 Podcast
+
+* [Hutschienenmoped XL: ISOBUS ECU Entwicklung](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Hutschienenmoped-XL-ISOBUS-ECU-Entwicklung-e368hdg)
+
+## 📺 Video
+
+* [2025 11 15 12 35 11 Montage Hutschienenmoped logiBUS® -- Teil 3 -- Gehäuse](https://www.youtube.com/watch?v=MPm4vLmD5RE)
+* [2025 11 15 12 52 26 Montage Hutschienenmoped logiBUS® -- Teil 4 -- Aufbauten](https://www.youtube.com/watch?v=WeowCxZW70Y)
+* [2025-11-13 17-50-42 Montage Hutschienenmoped logiBUS® -- Teil 1 -- Einführung und Löten](https://www.youtube.com/watch?v=HWBMBVLMPiw)
+* [2025-11-15 12-19-33 Montage Hutschienenmoped logiBUS® -- Teil 2 -- Einführung und Löten](https://www.youtube.com/watch?v=nohE36SZY9M)
+* [2025-12-14 20-03-27 Aufspielen Training 1 Übung 1 auf das Hutschienenmoped.](https://www.youtube.com/watch?v=6iog7-DZvW0)
+
 ## 🌟 Highlights
 
 * **ISOBUS Kompatibel:** Volle Unterstützung für **ISO 11783**.

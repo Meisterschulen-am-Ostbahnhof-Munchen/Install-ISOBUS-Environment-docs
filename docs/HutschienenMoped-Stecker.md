@@ -5,6 +5,19 @@
 
 Diese Fotostrecke dokumentiert die korrekte Verkabelung und die verwendeten Steckertypen für das „HutschienenMoped“-Modul.
 
+## 🎧 Podcast
+
+* [Der IBBC: Wie Stecker, Kabel und ISO 11783 Hightech-Landmaschinen verbinden](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Der-IBBC-Wie-Stecker--Kabel-und-ISO-11783-Hightech-Landmaschinen-verbinden-e36t2lk)
+* [Hutschienenmoped XL: ISOBUS ECU Entwicklung](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Hutschienenmoped-XL-ISOBUS-ECU-Entwicklung-e368hdg)
+
+## 📺 Video
+
+* [2025 11 15 12 35 11 Montage Hutschienenmoped logiBUS® -- Teil 3 -- Gehäuse](https://www.youtube.com/watch?v=MPm4vLmD5RE)
+* [2025 11 15 12 52 26 Montage Hutschienenmoped logiBUS® -- Teil 4 -- Aufbauten](https://www.youtube.com/watch?v=WeowCxZW70Y)
+* [2025-11-13 17-50-42 Montage Hutschienenmoped logiBUS® -- Teil 1 -- Einführung und Löten](https://www.youtube.com/watch?v=HWBMBVLMPiw)
+* [2025-11-15 12-19-33 Montage Hutschienenmoped logiBUS® -- Teil 2 -- Einführung und Löten](https://www.youtube.com/watch?v=nohE36SZY9M)
+* [2025-12-14 20-03-27 Aufspielen Training 1 Übung 1 auf das Hutschienenmoped.](https://www.youtube.com/watch?v=6iog7-DZvW0)
+
 ## 1. Grundlegende Verdrahtung und Anschlüsse
 
 Die Basisverdrahtung des Moduls auf der Hutschiene erfolgt über rote und schwarze Leitungen (Spannungsversorgung und Masse), die über Flachsteckhülsen mit den Stiftleisten der Platine verbunden sind.
