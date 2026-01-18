@@ -91,8 +91,3 @@
 * [DIN EN 61499-1: Die Lego-Steine für flexible und ereignisgesteuerte Industriesteuerungen](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61499-1-Die-Lego-Steine-fr-flexible-und-ereignisgesteuerte-Industriesteuerungen-e3681o1)
 * [EventFBs nach IEC 61499: Legosteine der Automatisierung – So funktionieren Ereignis-Funktionsbausteine](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/EventFBs-nach-IEC-61499-Legosteine-der-Automatisierung--So-funktionieren-Ereignis-Funktionsbausteine-e375gjm)
 * [IEC 61499-1: Der Funktionsbaustein – Lego-Prinzip für moderne Steuerungssysteme in Land- und Baumaschinen](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-1-Der-Funktionsbaustein--Lego-Prinzip-fr-moderne-Steuerungssysteme-in-Land--und-Baumaschinen-e36a7q2)
-
-## 📺 Video
-
-* [EventFBs nach IEC 61499: Legosteine der Automatisierung – So funktionieren Ereignis-Funktionsbaus...](https://www.youtube.com/watch?v=4Z9TjTT78rg)
-* [IEC 61499-1: Der Funktionsbaustein – Lego-Prinzip für moderne Steuerungssysteme in Land- und Baum...](https://www.youtube.com/watch?v=GyOoLXcGY2w)
