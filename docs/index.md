@@ -72,33 +72,11 @@ This project is under active development.
 
 **Contents**
 
-```{toctree}
-:caption: 'Contents:'
-:maxdepth: 7
-:numbered: true
 
-Home <self>
-Home
-Hardware
-Gitkraken
-Installation
-blink_on_atom
-IsoAgLib-ISOMAN
-Joystick
-cci_EasyExample
-cci_EasyExample_CAN2IP
-Optional
-Eagle
-```
 
 ---
 
-```{toctree}
-:caption: 'Index & Suche'
-:maxdepth: 2
-genindex
-search
-```
+
 
 ### Index & Suche
 * {ref}`genindex`
