@@ -1,9 +1,10 @@
-# Hardware
+# 🔌 Hardware
 
 ```{index} single: Hardware
 ```
 
 ```{toctree}
+:maxdepth: 1
 Paket
 ISOBUS-Kabel-klein
 Lego

@@ -1,4 +1,4 @@
-# Installation und Verwendung von Gitkraken:
+# 📦 Installation und Verwendung von Gitkraken:
 
 ```{index} single: Installation und Verwendung von Gitkraken:
 ```

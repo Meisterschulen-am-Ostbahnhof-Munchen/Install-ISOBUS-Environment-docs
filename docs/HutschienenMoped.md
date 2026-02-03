@@ -43,7 +43,7 @@ Für den Betrieb mit einem 4-poligen Kabel müssen **zwei Brücken** gesteckt we
 
 Das Gehäuse ist für verschiedene Montageszenarien ausgelegt.
 
-### Hardware-Ansichten
+### 🔌 Hardware-Ansichten
 
 | Ansicht | Beschreibung |
 | :--- | :--- |
