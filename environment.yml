@@ -27,4 +27,5 @@ dependencies:
     - sphinx_pyscript
     - sphinx_tippy
     - sphinx-markdown-tables
+    - sphinxemoji
     - zipp>=3.19.1
