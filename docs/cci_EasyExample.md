@@ -1,7 +1,6 @@
 # cci_EasyExample
 
-```{index} single: cci_EasyExample
-```
+
 
 Sie können jetzt ja schon alles:
 

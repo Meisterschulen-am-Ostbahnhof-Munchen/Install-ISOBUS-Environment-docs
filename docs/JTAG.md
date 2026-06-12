@@ -1,7 +1,6 @@
 # JTAG
 
-```{index} single: JTAG
-```
+
 
 ## JTAG Schritt\_01:
 

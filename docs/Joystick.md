@@ -1,7 +1,6 @@
 # Joystick
 
-```{index} single: Joystick
-```
+
 
 Versuchen sie nun die eben erstellte ISOBUS Maschine mit dem AUX-Joystick zu steuern.
 

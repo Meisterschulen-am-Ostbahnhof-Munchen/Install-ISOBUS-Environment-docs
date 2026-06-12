@@ -1,7 +1,6 @@
 # 🔌 Hardware
 
-```{index} single: Hardware
-```
+
 
 
 ## 🎧 Podcast

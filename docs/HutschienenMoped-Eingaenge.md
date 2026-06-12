@@ -1,7 +1,6 @@
 # HutschienenMoped Eingänge
 
-```{index} single: HutschienenMoped Eingänge
-```
+
 
 ## Unterscheidung von Endschaltern für Pneumatikzylinder:
 

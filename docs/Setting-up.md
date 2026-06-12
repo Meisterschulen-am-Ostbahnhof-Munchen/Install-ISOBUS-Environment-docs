@@ -1,7 +1,6 @@
 # Setting-up Installation
 
-```{index} single: Setting-up Installation
-```
+
 
 ## Schritt 01:
 

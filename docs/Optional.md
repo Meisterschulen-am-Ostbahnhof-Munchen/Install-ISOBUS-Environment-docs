@@ -1,5 +1,4 @@
 # Optional
 
-```{index} single: Optional
-```
+
 
