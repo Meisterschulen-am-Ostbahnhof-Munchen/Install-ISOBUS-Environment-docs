@@ -189,6 +189,15 @@ def rewrite_content(content, file_src_path, path_to_id, docs_dir):
             dest = f"<{dest}>"
         return f"{prefix}{text}]({dest})"
         
+    # 0. Pre-process: download all remote Markdown images to avoid issues with nested structures (like [![alt](http...)](url))
+    def download_remote_markdown_image(m):
+        prefix = m.group(1) # "!["
+        alt_text = m.group(2)
+        img_url = m.group(3).strip()
+        local_rel_path = download_remote_image(img_url, docs_dir)
+        return f"{prefix}{alt_text}]({local_rel_path})"
+    content = re.sub(r'(!\[)([^]]*)\]\(((?:https?:)//[^)]+)\)', download_remote_markdown_image, content)
+        
     content = re.sub(r'(!?\[)([^]]*)\]\(([^)]*)\)', replace_url, content) # Note: changed ([^)]+) to ([^)]*) to allow empty parentheses ()
     
     # 2. HTML image sources <img src="path" ...> to Markdown image syntax
