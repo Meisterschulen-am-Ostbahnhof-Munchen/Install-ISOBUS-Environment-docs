@@ -9,12 +9,15 @@ plugins:
 - search
 site_name: Grundlagen der C-Programmierung in ISOBUS (1)
 site_url: https://docs.ms-muc-docs.de/projects/Install-ISOBUS-Environment-docs/
+repo_url: https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs
 theme:
   features:
   - navigation.sections
   - navigation.expand
   - search.suggest
   - search.highlight
+  - content.action.edit
+  - content.action.view
   language: de
   name: material
   palette:
