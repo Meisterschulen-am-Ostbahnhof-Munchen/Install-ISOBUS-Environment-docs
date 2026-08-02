@@ -57,3 +57,9 @@ Hier einige Einblicke in die Hardware:
     * ISOBUS (CAN)
     * WLAN / Bluetooth (via ESP32)
     * Erweiterungsports für Sensoren/Aktoren
+
+---
+
+### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+* [🌐 ESP32 & ESP32-S3 DevKit auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/)
+* [🌐 Leiterplatten-Entwurf & Bestückung auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)

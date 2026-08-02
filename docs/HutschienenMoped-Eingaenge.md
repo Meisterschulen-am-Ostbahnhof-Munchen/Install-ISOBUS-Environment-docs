@@ -142,3 +142,10 @@ Weil:
 [https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ButtonBoards](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ButtonBoards)
 
 Multiplexer
+
+---
+
+### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+* [🌐 Gesamtwiderstand in Reihen- & Parallelschaltung auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/gesamtwiderstand-reihen-parallelschaltung/)
+* [🌐 Belasteter & Unbelasteter Spannungsteiler auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/spannungsteiler/)
+* [🌐 Bipolartransistor Grundlagen auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/bipolartransistor/bipolarer-transistor/)

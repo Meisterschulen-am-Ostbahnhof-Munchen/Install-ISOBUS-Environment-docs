@@ -64,3 +64,9 @@
 * [DIN EN 61499-1: Die Lego-Steine für flexible und ereignisgesteuerte Industriesteuerungen](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61499-1-Die-Lego-Steine-fr-flexible-und-ereignisgesteuerte-Industriesteuerungen-e3681o1)
 * [EventFBs nach IEC 61499: Legosteine der Automatisierung – So funktionieren Ereignis-Funktionsbausteine](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/EventFBs-nach-IEC-61499-Legosteine-der-Automatisierung--So-funktionieren-Ereignis-Funktionsbausteine-e375gjm)
 * [IEC 61499-1: Der Funktionsbaustein – Lego-Prinzip für moderne Steuerungssysteme in Land- und Baumaschinen](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-1-Der-Funktionsbaustein--Lego-Prinzip-fr-moderne-Steuerungssysteme-in-Land--und-Baumaschinen-e36a7q2)
+
+
+---
+
+### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+* [🌐 Eclipse 4diac IDE & Farb-Referenz auf ms-muc-docs.de](https://www.ms-muc-docs.de/iec-61499/eclipse-4diac/)

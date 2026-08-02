@@ -49,3 +49,8 @@ Auch hier kann die Console parallel zum Debugging laufen, 
 cool:
 
 ![](https://user-images.githubusercontent.com/69573151/203058974-0fcced32-d085-4ce4-b46d-c84454d7e320.png)
+
+---
+
+### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+* [🌐 ESP32 & ESP32-S3 DevKit auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/)
