@@ -27,15 +27,7 @@ Note: This process must be repeated if you connect the ESP-PROG to a different i
 
 Therefore, ideally, always use the same USB ports.
 
-Before:
-
-See also:
-...``
-
-]
-
-]
-`````````````````````````````````````````````` ![Schritt_01a](https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_01a.jpeg)
+![Schritt_01a](https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_01a.jpeg)
 
 ![Schritt_01b](https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_01b.jpeg)
 
@@ -67,7 +59,7 @@ openocd -f board/esp32-wrover-kit-3.3v.cfg
 
 ATTENTION!!! Starting the GDB server from the command line is only necessary if you are also debugging from the command line.
 
---> OpenOCD is started automatically from within the ESP-IDF.
+\--> OpenOCD is started automatically from within the ESP-IDF.
 
 ## JTAG Step\_04:
 
