@@ -40,7 +40,7 @@ Always Specified: e.g., 5...36 V DC
 
 * Minimum and maximum voltage specified!!!
 
-``` * Normally open (NO) contact: usually 3-wire technology
+`` * Normally open (NO) contact: usually 3-wire technology
 
 * Normally closed (NC) contact: usually 3-wire technology
 * Changeover contact: 4-wire

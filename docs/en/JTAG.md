@@ -35,7 +35,7 @@ See also:
 ]
 
 ]
-``````````````````````````````````````````````` ![Schritt_01a](https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_01a.jpeg)
+`````````````````````````````````````````````` ![Schritt_01a](https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_01a.jpeg)
 
 ![Schritt_01b](https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_01b.jpeg)
 

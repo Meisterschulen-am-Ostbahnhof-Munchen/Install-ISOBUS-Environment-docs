@@ -16,6 +16,6 @@ Now navigate to the folder using `cd ~/esp/esp-idf`.
 
 Make the install file executable using `chmod +x install.sh`. Then run the file.
 
-`./install.sh`
+./install.sh`
 
 Done.
