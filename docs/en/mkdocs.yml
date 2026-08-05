@@ -8,7 +8,7 @@ markdown_extensions:
     permalink: true
 plugins:
 - search
-site_name: Grundlagen der C-Programmierung in ISOBUS (1)
+site_name: Fundamentals of C Programming in ISOBUS (1)
 site_url: https://docs.ms-muc-docs.de/projects/Install-ISOBUS-Environment-docs/
 extra:
   alternate:
@@ -20,6 +20,7 @@ extra:
     name: English
 repo_url: https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs
 edit_uri: edit/main/docs/en/
+view_uri: blob/main/docs/en/
 theme:
   features:
   - navigation.sections
