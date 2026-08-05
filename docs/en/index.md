@@ -37,8 +37,8 @@ This documentation is part of the knowledge base of the Master Craftsmen's Schoo
 * 📋 [**What's in the Curriculum (Curriculum 2025)**](./das_steht_im_lehrplan.md)
 * 📋 [Interactive Framework Curriculum 2025](https://www.ms-muc-docs.de/infos/interaktiver-rahmenlehrplan)
 * 📄 [Central PDF Download Hub](https://www.ms-muc-docs.de/wikis/alle-pdfs)
-* [🔍 Super Search (all Wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/)
-* [📄 Download PDF Handbook](https://meisterschulen-am-ostbahnhof-munchen.github.io/Install-ISOBUS-Environment-docs/pdf/install-isobus-environment-docs.pdf)
+* [🔍 Super Search (all Wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/en/latest/)
+* [📄 Download PDF Handbook](https://meisterschulen-am-ostbahnhof-munchen.github.io/Install-ISOBUS-Environment-docs/en/pdf/install-isobus-environment-docs-en.pdf)
 
 ---
 
@@ -52,6 +52,6 @@ This project is under active development.
 
 ---
 
-[🏠 Main Menu ](https://www.ms-muc-docs.de/) | [🔍 Super Search (All Wikis) ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/) | [Quick Search (IEC 61499) ](https://www.ms-muc-docs.de/iec-61499/abk%C3%BCrzungen-und-bedeutungen/abk%C3%BCrzungen-und-bedeutungen)
+[🏠 Main Menu ](https://www.ms-muc-docs.de/) | [🔍 Super Search (All Wikis) ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/en/latest/) | [Quick Search (IEC 61499) ](https://www.ms-muc-docs.de/iec-61499/abk%C3%BCrzungen-und-bedeutungen/abk%C3%BCrzungen-und-bedeutungen)
 
 ]
