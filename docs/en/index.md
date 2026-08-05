@@ -48,6 +48,4 @@ This project is under active development.
 
 ---
 
-[🏠 Main Menu ](https://www.ms-muc-docs.de/) | [🔍 Super Search (All Wikis) ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/en/latest/) | [Quick Search (IEC 61499) ](https://www.ms-muc-docs.de/iec-61499/abk%C3%BCrzungen-und-bedeutungen/abk%C3%BCrzungen-und-bedeutungen)
-
-]
+[🏠 Main Menu](https://www.ms-muc-docs.de/) | [🔍 Super Search (All Wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/en/latest/) | [Quick Search (IEC 61499)](https://www.ms-muc-docs.de/iec-61499/abk%C3%BCrzungen-und-bedeutungen/abk%C3%BCrzungen-und-bedeutungen)
