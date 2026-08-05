@@ -1,13 +1,8 @@
 # 📋 This is on the curriculum: C programming in ISOBUS
-
 > 📌 **Source & Legal Basis:**
-
 > **Source:** *Framework Curriculum for Preparation for the Master Craftsman Examination in Agricultural and Construction Machinery Mechatronics*
-
 > **Publisher:** German Association of Agricultural and Construction Machinery Technicians V., Alfredstraße 102, 45131 Essen (Status: February 25, 2025)
-
 > **Regulation:** *Master Craftsman Examination Regulation (LandBauMechMstrV)* of September 9, 2024 (Federal Law Gazette 2024 I No. 277, in force from August 1, 2025)
-
 ---
 
 > 🌐 **Central Portal of the Master Craftsman Schools Munich:**
@@ -30,15 +25,12 @@
 ### Part 2 – Learning Unit 1.1: Systems Engineering (120 hours)
 - **Software Architecture:** Memory management, bit operations, pointers, and system drivers in C/C++ for microcontrollers.
 
-
 ---
 
 ---
 
 ### 🌐 Relevant subpages on ms-muc-docs.de
-
 * [🌐 Eclipse 4diac IDE & Color Reference on ms-muc-docs.de](https://www.ms-muc-docs.de/iec-61499/eclipse-4diac/)
-
 * [🌐 MCU vs. MPU Comparison Guide on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/mpu-vs-mcu/mikroprozessor-mpu-vs-mikrocontroller-mcu/)
 
 ## 🔗 Overview, Main Portal & Direct Links to all 6 Wikis

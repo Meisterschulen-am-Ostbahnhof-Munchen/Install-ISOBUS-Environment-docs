@@ -1,14 +1,13 @@
 ---
 myst:
-  enable_extensions: ["colon_fence"]
-  html_meta:
-    "description lang=en": "metadata description"
-    "description lang=de": "metadata description"
-    "description lang=fr": "description des métadonnées"
-    "keywords": "Sphinx, MyST"
-    "property=og:locale": "de"
+enable_extensions: ["colon_fence"]
+html_meta:
+"description lang=en": "metadata description"
+"description lang=de": "metadata description"
+"description lang=fr": "description des métadonnées"
+"keywords": "Sphinx, MyST"
+"property=og:locale": "de"
 ---
-
 
 <img src="_static/logos/Meisterschulen_LogoG1_4c.gif" alt="Logo Meisterschulen am Ostbahnhof" width="400px" />
 
@@ -30,7 +29,6 @@ myst:
 
 This documentation is part of the knowledge base of the Master Craftsmen's Schools at Munich East Station.
 
-
 **Useful Links & Main Portal:**
 
 * 🌐 [**Main Portal Master Schools Munich**](https://www.ms-muc-docs.de/)
@@ -45,8 +43,6 @@ This documentation is part of the knowledge base of the Master Craftsmen's Schoo
 !!! Note
 
 This project is under active development.
-
-
 
 * **Contents**
 

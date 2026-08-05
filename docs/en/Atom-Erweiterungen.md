@@ -1,13 +1,8 @@
 # Atom Extensions
-
 Basically, all extensions from M5 Stack work on the GROVE port:
-
 <https://shop.m5stack.com/collections/m5-sensor>
-
 and all extensions that offer the GROVE port:
-
 <https://wiki.seeedstudio.com/Grove_System/>
-
 <https://www.youtube.com/watch?v=1Rc_OiebDPo>
 
 We will be working with the following:

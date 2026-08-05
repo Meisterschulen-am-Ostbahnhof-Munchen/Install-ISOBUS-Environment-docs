@@ -1,13 +1,8 @@
 # DIN Rail Moped Extensions
-
 See also:
-
 <https://install-isobus-environment-docs.readthedocs.io/de/latest/Atom-Erweiterungen.html>
-
 <img src="https://user-images.githubusercontent.com/69573151/131331473-2672b2e4-d399-48f0-939b-e571f367e7e5.jpg" />
-
 <img src="https://user-images.githubusercontent.com/69573151/131331475-abc3273f-c2ed-4312-9c83-6b900e240f50.jpg" />
-
 <img src="https://user-images.githubusercontent.com/69573151/131331478-4a4969e4-aed1-4359-bf7c-40ff31d0873a.jpg" />
 
 <img src="https://user-images.githubusercontent.com/69573151/131331474-df0e087d-3aac-4482-b87a-7cb631affdd4.jpg" />

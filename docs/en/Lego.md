@@ -1,13 +1,7 @@
 #Lego
-
-
-
 \<<https://www.1000steine.de/de/gemeinschaft/forum/?entry=1&id=442294>
-
 [\<https://youtu.be/z4hOIl2aygs](https://youtu.be/z4hOIl2aygs)
-
 <img src="https://user-images.githubusercontent.com/69573151/131330958-6abf443c-4645-4e32-86a0-60b3e0e0216d.jpg" />
-
 <img src="https://user-images.githubusercontent.com/69573151/131330953-55c14e24-b2ba-4edd-a120-295d97e007ea.jpg" />
 
 <img src="https://user-images.githubusercontent.com/69573151/131330957-463df998-fa0d-453a-81fe-1e1b7239a726.jpg" />
@@ -58,22 +52,13 @@ qzms docs000013qz
 
 <img src="https://user-images.githubusercontent.com/69573151/96363315-bdc8f480-1133-11eb-991b-5924454f815f.png" />
 ## 🎧 Podcast
-
 * [Eclipse 4diac FORTE: Understanding IEC 61499 – The LEGO® Building Blocks for Your Industry 4.0 Control System ](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Eclipse-4diac-FORTE-IEC-61499-verstehen--Der-LEGO-Baukasten-fr-Ihre-Industrie-4-0-Steuerung-e3682kc)
-
 * [DIN EN 61499-1: The Digital LEGO Building Blocks for Flexible Automation and a Smart Future ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61499-1-Der-digitale-Lego-Baukasten-fr-flexible-Automatisierung-und-smarte-Zukunft-e3681pb)
-
 * [DIN EN 61499-1: The LEGO Bricks for Flexible and Event-Driven Industrial Control Systems ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61499-1-Die-Lego-Steine-fr-flexible-und-ereignisgesteuerte-Industriesteuerungen-e3681o1)
-
 * [EventFBs according to IEC 61499: LEGO Bricks of Automation – How Event Function Blocks Work ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/EventFBs-nach-IEC-61499-Legosteine-der-Automatisierung--So-funktionieren-Ereignis-Funktionsbausteine-e375gjm)
-
 * [IEC 61499-1: The Function Block – LEGO Principle for Modern Control Systems in Agricultural and Construction Machinery ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-1-Der-Funktionsbaustein--Lego-Prinzip-fr-moderne-Steuerungssysteme-in-Land--und-Baumaschinen-e36a7q2)
 
 ---
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
-
 * [🌐 Eclipse 4diac IDE & Color Reference on ms-muc-docs.de](https://www.ms-muc-docs.de/iec-61499/eclipse-4diac/)
-
-
-```

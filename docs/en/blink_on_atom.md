@@ -1,13 +1,8 @@
 # blink_on_atom
-
 ### Step 14:
-
 Now you can actually start Eclipse:
-
 For your first project, use this workspace:
-
 C:\\git\\blink_on_atom\\eclipse-workspace
-
 (unless you checked out to D:\\git earlier)
 
 <img src="https://user-images.githubusercontent.com/69573151/92934821-3effde00-f448-11ea-9631-7ec96373413a.png" />

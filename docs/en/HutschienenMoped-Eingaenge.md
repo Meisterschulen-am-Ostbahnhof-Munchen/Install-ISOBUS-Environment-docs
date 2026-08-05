@@ -1,13 +1,8 @@
 # DIN Rail Moped Inputs
-
 ## Differentiation of Limit Switches for Pneumatic Cylinders:
-
 [https://www.ifm.com/at/de/shared/produkte/zylindersensoren/technologie](https://www.ifm.com/at/de/shared/produkte/zylindersensoren/technologie)
-
 ### Reed Switch
-
 A reed switch is an electrical switching element consisting of two ferromagnetic contacts inside a hermetically sealed glass tube. These contacts are held apart by a thin, flexible glass rod coated with a special metal alloy.
-
 The main characteristics of a reed switch are:
 
 1. Magnetic Activation: A reed switch is activated by a magnetic field. When the field is strong enough, the contacts move and close an electrical circuit.
@@ -30,15 +25,10 @@ Reed Switch Characteristics:
 * Normally Closed: always 2-wire technology
 * Changeover (rare): 3-wire technology
 * Only the maximum voltage is specified in the datasheet
-
 * Current Direction: irrelevant
-
 * Ground Terminal: not present
-
 * Usually no LED (except for special designs)
-
 * Not short-circuit protected!!!
-
 
 [https://www.ifm.com/de/de/product/MR0100](https://www.ifm.com/de/de/product/MR0100)
 
@@ -50,19 +40,13 @@ Always Specified: e.g., 5...36 V DC
 
 * Minimum and maximum voltage specified!!!
 
-
 ``` * Normally open (NO) contact: usually 3-wire technology
 
 * Normally closed (NC) contact: usually 3-wire technology
-
 * Changeover contact: 4-wire
-
 * Current direction: alternating, see PNP/NPN, L+ L-
-
 * Ground terminal: not present
-
 * Usually no LED (except for special designs)
-
 * Modern designs are short-circuit protected, cannot burn out
 
 Example: [https://www.ifm.com/de/de/product/MK5214](https://www.ifm.com/de/de/product/MK5214) (short-circuit proof; overload proof)
@@ -148,7 +132,6 @@ In Practice:
 Because:
 
 [https://www.electronicsplanet.ch/Widerstand/Widerstandsreihe-E24.htm](https://www.electronicsplanet.ch/Widerstand/Widerstandsreihe-E24.htm)
-
 
 ]
 ![](https://user-images.githubusercontent.com/69573151/223126038-5d9b7d5e-2608-4ebf-8e39-4226a0df0cd0.png)

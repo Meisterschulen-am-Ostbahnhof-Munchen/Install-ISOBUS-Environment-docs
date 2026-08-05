@@ -1,13 +1,8 @@
 # Installation Setup
-
 ## Step 1:
-
 Background information can be found here:
-
 https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/
-
 Please check beforehand that your username under C:\Users is without umlauts and spaces.
-
 Otherwise, you will encounter serious problems.
 
 Download the ESP-IDF Tools.
@@ -28,7 +23,6 @@ https://dl.espressif.com/dl/esp-idf-tools-setup-offline-2.10.exe
 
 If it looks like this, that's great.
 
-
 If not:
 
 ![](https://user-images.githubusercontent.com/69573151/127839959-f86d3cbb-3f00-47b1-8695-aadd0b243e50.png)
@@ -44,7 +38,6 @@ and then yes.
 Select 4.3
 
 The installer will suggest "desktop" here, but I don't like that!
-
 
 ![](https://user-images.githubusercontent.com/69573151/127840259-084f3ce9-8d0c-4779-b7a0-6bc28cbf8860.png)
 

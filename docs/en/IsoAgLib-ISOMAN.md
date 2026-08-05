@@ -1,12 +1,8 @@
 # IsoAgLib-ISOMAN
-
 For this experiment, the atom must be mounted on the socket. Secure it carefully with the screw.
 ... (This is plastic, so 500 Nm of torque isn't needed >\`\_
-
 Open the workspace C:\\git\\IsoAgLib-ISOMAN\\eclipse-workspace
-
 <img src="https://user-images.githubusercontent.com/69573151/92991365-a880fa80-f4e3-11ea-817e-bc3f696b3f50.png" />
-
 Import the project as before (you can do this now >\`\_
 
 <img src="https://user-images.githubusercontent.com/69573151/92991405-e2520100-f4e3-11ea-8983-63025702433e.png" />
