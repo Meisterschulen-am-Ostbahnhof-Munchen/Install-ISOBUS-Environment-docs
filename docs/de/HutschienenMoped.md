@@ -20,7 +20,7 @@ Das Hutschienenmoped verfügt über abgesicherte Ausgänge und flexible Anschlus
 * **Stromversorgung:** Die Spannungseinspeisung benötigt zum Leitungsschutz eine externe Sicherung.
 
 ### Pinbelegung
-![Übersicht Pinbelegung](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/raw/main/images/U%CC%88bersicht2.jpeg)
+![Übersicht Pinbelegung](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/raw/main/images/Uebersicht2.jpeg)
 
 ---
 

@@ -15,7 +15,7 @@ The DIN rail moped features fused outputs and flexible connection options.
 * **Power Supply:** The power supply requires an external fuse for line protection.
 
 ### Pin Assignment
-![Übersicht Pinbelegung](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/raw/main/images/U%CC%88bersicht2.jpeg)
+![Übersicht Pinbelegung](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/raw/main/images/Uebersicht2.jpeg)
 
 ---
 
