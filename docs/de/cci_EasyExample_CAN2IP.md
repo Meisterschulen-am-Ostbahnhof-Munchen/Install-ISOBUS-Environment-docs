@@ -13,6 +13,7 @@ Besondere Umstände erfordern besondere Maßnahmen:
 - Erklärung: wir haben nun 2 Wege um sich zur ISOBUS ECU zu verbinden:
   \*   den "virtuellen" CAN, der eigentlich WLAN ist: CAN2IP
   \*   den "bekannten" physischen CAN, der auch im Traktor vorhanden ist: CAN
+
 - ebenfalls im sdkconfig müssen Sie ihre SSID und Kennwort eingeben
   \*   Screenshot:
 

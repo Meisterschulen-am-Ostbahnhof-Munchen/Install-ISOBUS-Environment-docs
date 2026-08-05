@@ -30,6 +30,7 @@ myst:
 Diese Dokumentation ist Teil der Wissensdatenbank der Meisterschulen am Ostbahnhof München.
 
 **Nützliche Links & Hauptportal:**
+
 * 🌐 [**Hauptportal Meisterschulen München**](https://www.ms-muc-docs.de/)
 * 📋 [**Das steht im Lehrplan (Lehrplan 2025)**](./das_steht_im_lehrplan.md)
 * 📋 [Interaktiver Rahmenlehrplan 2025](https://www.ms-muc-docs.de/infos/interaktiver-rahmenlehrplan)

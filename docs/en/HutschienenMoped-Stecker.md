@@ -2,6 +2,7 @@
 This photo series documents the correct wiring and connector types used for the "DIN Rail Moped" module.
 ## 1. Basic Wiring and Connections
 The module's basic wiring on the DIN rail is done via red and black wires (power supply and ground), which are connected to the circuit board's pin headers using spade connectors.
+
 * **Connector Type:** 6.3 mm spade connectors are used as standard.
 <img src="https://user-images.githubusercontent.com/69573151/131330812-b4942f7e-a731-4321-9e51-265eb43abbad.jpg" />
 
