@@ -38,13 +38,9 @@ The source code and hardware files are located in the GitHub repository:
 Here are some insights into the hardware:
 
 | View | Description |
-
 | :--- | :--- |
-
 | ![PCB Top](https://github.com/user-attachments/assets/383bf22e-cba5-43bd-8128-fcb774ffd311) | **Assembled PCB (Top)** <br> Shows the ESP32 and its connections. |
-
 | ![PCB Bottom](https://github.com/user-attachments/assets/e9367dd6-669b-4474-8874-dbe8fb007cbe) | **Assembled PCB (Bottom)** <br> Back side with trace layout. |
-
 | ![Case](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS_Hardware/assets/69573151/a77ef262-608f-44c5-9354-b3eb979526ce) | **Enclosure Assembly** <br> The finished module in a DIN rail enclosure. |
 
 ---
