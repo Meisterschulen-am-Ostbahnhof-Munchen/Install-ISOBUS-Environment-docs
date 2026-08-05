@@ -3,7 +3,7 @@
 #let horizontalrule = line(length: 100%, stroke: 0.5pt + luma(150))
 
 #show: book.with(
-  title: "Grundlagen der C-Programmierung in ISOBUS (1)",
+  title: "Fundamentals of C Programming in ISOBUS (1)",
   author: "Franz Höpfinger",
   date: "2022-2026",
   copyright: [2022-2026, Meisterschulen am Ostbahnhof - München],
