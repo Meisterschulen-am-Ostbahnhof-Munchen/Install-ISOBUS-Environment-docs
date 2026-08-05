@@ -73,7 +73,8 @@ This folder must also not contain any umlauts or spaces.
 
 ![](https://user-images.githubusercontent.com/69573151/124081200-86913e00-da4b-11eb-97c1-8a3e3532f13d.png)
 
-> ## Step 11: (Information only)
+>
+## Step 11: (Information only)
 >
 > idf.py menuconfig
 >
