@@ -1,7 +1,11 @@
 # DIN Rail Moped Inputs
-## Differentiation of Limit Switches for Pneumatic Cylinders:
+
+## Differentiation of Limit Switches for Pneumatic Cylinders
+
 [https://www.ifm.com/at/de/shared/produkte/zylindersensoren/technologie](https://www.ifm.com/at/de/shared/produkte/zylindersensoren/technologie)
+
 ### Reed Switch
+
 A reed switch is an electrical switching element consisting of two ferromagnetic contacts inside a hermetically sealed glass tube. These contacts are held apart by a thin, flexible glass rod coated with a special metal alloy.
 The main characteristics of a reed switch are:
 
@@ -21,14 +25,14 @@ The main characteristics of a reed switch are:
 
 Reed Switch Characteristics:
 
-* Normally Open: always 2-wire technology
-* Normally Closed: always 2-wire technology
-* Changeover (rare): 3-wire technology
-* Only the maximum voltage is specified in the datasheet
-* Current Direction: irrelevant
-* Ground Terminal: not present
-* Usually no LED (except for special designs)
-* Not short-circuit protected!!!
+- Normally Open: always 2-wire technology
+- Normally Closed: always 2-wire technology
+- Changeover (rare): 3-wire technology
+- Only the maximum voltage is specified in the datasheet
+- Current Direction: irrelevant
+- Ground Terminal: not present
+- Usually no LED (except for special designs)
+- Not short-circuit protected!!!
 
 [https://www.ifm.com/de/de/product/MR0100](https://www.ifm.com/de/de/product/MR0100)
 
@@ -38,28 +42,28 @@ Reed Switch Characteristics:
 
 Always Specified: e.g., 5...36 V DC
 
-* Minimum and maximum voltage specified!!!
+- Minimum and maximum voltage specified!!!
 
-* Normally open (NO) contact: usually 3-wire technology
+- Normally open (NO) contact: usually 3-wire technology
 
-* Normally closed (NC) contact: usually 3-wire technology
-* Changeover contact: 4-wire
-* Current direction: alternating, see PNP/NPN, L+ L-
-* Ground terminal: not present
-* Usually no LED (except for special designs)
-* Modern designs are short-circuit protected, cannot burn out
+- Normally closed (NC) contact: usually 3-wire technology
+- Changeover contact: 4-wire
+- Current direction: alternating, see PNP/NPN, L+ L-
+- Ground terminal: not present
+- Usually no LED (except for special designs)
+- Modern designs are short-circuit protected, cannot burn out
 
 Example: [https://www.ifm.com/de/de/product/MK5214](https://www.ifm.com/de/de/product/MK5214) (short-circuit proof; overload proof)
 
 #### PNP Sensor
 
-![](https://user-images.githubusercontent.com/69573151/223118993-3d7325eb-8fa6-451e-b90b-1ac3028e7764.png)
+![DIN rail moped input pinout](https://user-images.githubusercontent.com/69573151/223118993-3d7325eb-8fa6-451e-b90b-1ac3028e7764.png)
 
 Source: [https://www.ifm.com/de/de/product/MK5140](https://www.ifm.com/de/de/product/MK5140)
 
 #### NPN Sensor
 
-![](https://user-images.githubusercontent.com/69573151/223119312-1da2bd00-5cbf-4606-bea7-73da028c0ae0.png)
+![DIN rail moped input pinout](https://user-images.githubusercontent.com/69573151/223119312-1da2bd00-5cbf-4606-bea7-73da028c0ae0.png)
 
 Source: [https://www.ifm.com/de/de/product/MK5309](https://www.ifm.com/de/de/product/MK5309)
 
@@ -105,7 +109,7 @@ Overall, the GMR cell is a very versatile component that can be used in many dif
 
 ## Connecting the Limit Switch to the Input
 
-![](https://cdn.shopify.com/s/files/1/0056/7689/2250/products/7_da00f974-6952-4ad6-9f08-beaab6c888d5_1200x1200.jpg?v=1655692121)
+![DIN rail moped input pinout](https://cdn.shopify.com/s/files/1/0056/7689/2250/products/7_da00f974-6952-4ad6-9f08-beaab6c888d5_1200x1200.jpg?v=1655692121)
 
 M5 Stack:
 
@@ -119,7 +123,7 @@ Voltage from the Sensor:
 
 Voltage Divider:
 
-![](https://user-images.githubusercontent.com/69573151/223125789-46ed37a7-2fca-48a4-8d62-4cc9b57bb5f4.png)
+![DIN rail moped input pinout](https://user-images.githubusercontent.com/69573151/223125789-46ed37a7-2fca-48a4-8d62-4cc9b57bb5f4.png)
 
 [https://www.digikey.de/de/resources/conversion-calculators/conversion-calculator-voltage-divider](https://www.digikey.de/de/resources/conversion-calculators/conversion-calculator-voltage-divider)
 
@@ -134,7 +138,7 @@ Because:
 [https://www.electronicsplanet.ch/Widerstand/Widerstandsreihe-E24.htm](https://www.electronicsplanet.ch/Widerstand/Widerstandsreihe-E24.htm)
 
 ]
-![](https://user-images.githubusercontent.com/69573151/223126038-5d9b7d5e-2608-4ebf-8e39-4226a0df0cd0.png)
+![DIN rail moped input pinout](https://user-images.githubusercontent.com/69573151/223126038-5d9b7d5e-2608-4ebf-8e39-4226a0df0cd0.png)
 
 ## Grove System
 
@@ -157,7 +161,8 @@ Multiplexers
 ---
 
 ### 🌐 Related Topic Subpages on ms-muc-docs.de
-* [🌐 Total Resistance in Series & Parallel Circuits on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/gesamtwiderstand-reihen-parallelschaltung/)
-* [🌐 Loaded & Unloaded Voltage Dividers on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/spannungsteiler/)
-* [🌐 Bipolar transistor fundamentals at ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/bipolartransistor/bipolarer-transistor/)
+
+- [🌐 Total Resistance in Series & Parallel Circuits on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/gesamtwiderstand-reihen-parallelschaltung/)
+- [🌐 Loaded & Unloaded Voltage Dividers on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/spannungsteiler/)
+- [🌐 Bipolar transistor fundamentals at ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/bipolartransistor/bipolarer-transistor/)
 

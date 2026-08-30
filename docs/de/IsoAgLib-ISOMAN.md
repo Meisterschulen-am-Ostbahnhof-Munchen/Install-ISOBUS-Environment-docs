@@ -8,11 +8,11 @@ für diesen Versuch muss der Atom auf dem Sockel stecken. mit der Schraube vorsi
 
 öffnen Sie den Workspace C:\\git\\IsoAgLib-ISOMAN\\eclipse-workspace
 
-<img src="https://user-images.githubusercontent.com/69573151/92991365-a880fa80-f4e3-11ea-817e-bc3f696b3f50.png" />
+![IsoAgLib ISOMAN Konfiguration - IsoAgLib-ISOMAN](https://user-images.githubusercontent.com/69573151/92991365-a880fa80-f4e3-11ea-817e-bc3f696b3f50.png)
 
 Import Project wie vorher (das können Sie jetzt schon>\`\_
 
-<img src="https://user-images.githubusercontent.com/69573151/92991405-e2520100-f4e3-11ea-8983-63025702433e.png" />
+![IsoAgLib ISOMAN Konfiguration - IsoAgLib-ISOMAN](https://user-images.githubusercontent.com/69573151/92991405-e2520100-f4e3-11ea-8983-63025702433e.png)
 
 Launch Target anlegen,
 
@@ -22,7 +22,7 @@ Dann Hammer,
 
 dann Play:
 
-<img src="https://user-images.githubusercontent.com/69573151/92991453-27763300-f4e4-11ea-8f01-f5d8aa104e74.png" />
+![IsoAgLib ISOMAN Konfiguration - IsoAgLib-ISOMAN](https://user-images.githubusercontent.com/69573151/92991453-27763300-f4e4-11ea-8f01-f5d8aa104e74.png)
 
 so,
 
@@ -32,4 +32,4 @@ das USB Kabel müssen Sie auf dem Fendt NICHT anschließen, der Atom wird von de
 
 so:
 
-<img src="https://user-images.githubusercontent.com/69573151/92991517-981d4f80-f4e4-11ea-90ae-573665695fbb.jpeg" />
+![IsoAgLib ISOMAN Konfiguration - IsoAgLib-ISOMAN](https://user-images.githubusercontent.com/69573151/92991517-981d4f80-f4e4-11ea-90ae-573665695fbb.jpeg)

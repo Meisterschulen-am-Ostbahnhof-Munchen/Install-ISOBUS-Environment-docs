@@ -6,10 +6,10 @@ Das **Hutschienenmoped XL** ist die erweiterte Version unserer Open-Source-ECU. 
 
 ## 🌟 Highlights
 
-* **ISOBUS Kompatibel:** Volle Unterstützung für **ISO 11783**.
-* **IEC 61499:** Vorbereitet für verteilte Steuerungssysteme.
-* **Open Source:** Die Hardware ist vollständig offengelegt und zertifiziert.
-* **Erweiterbar:** Durch den modularen Aufbau und die Nutzung des ESP32 kann das System flexibel angepasst werden.
+- **ISOBUS Kompatibel:** Volle Unterstützung für **ISO 11783**.
+- **IEC 61499:** Vorbereitet für verteilte Steuerungssysteme.
+- **Open Source:** Die Hardware ist vollständig offengelegt und zertifiziert.
+- **Erweiterbar:** Durch den modularen Aufbau und die Nutzung des ESP32 kann das System flexibel angepasst werden.
 
 ---
 
@@ -17,8 +17,8 @@ Das **Hutschienenmoped XL** ist die erweiterte Version unserer Open-Source-ECU. 
 
 Das Hutschienenmoped XL ist offiziell als Open Source Hardware zertifiziert.
 
-* **UID:** [DE000145](https://certification.oshwa.org/de000145.html)
-* **Zertifizierungsstelle:** Open Source Hardware Association (OSHWA)
+- **UID:** [DE000145](https://certification.oshwa.org/de000145.html)
+- **Zertifizierungsstelle:** Open Source Hardware Association (OSHWA)
 
 [![OSHWA Certification DE000145](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS_Hardware/raw/master/certification-mark-DE000145-stacked.png)](https://certification.oshwa.org/de000145.html)
 
@@ -28,10 +28,11 @@ Das Hutschienenmoped XL ist offiziell als Open Source Hardware zertifiziert.
 
 Das Hardware-Design wird in Autodesk Fusion 360 gepflegt. Hier können Sie die aktuellen 3D-Modelle und Schaltpläne einsehen:
 
-* 🔌 **[Hauptplatine (PCB) in Fusion 360 ansehen](https://a360.co/3YcFeBx)**
-* 📦 **[Gesamtzusammenbau (Assembly) in Fusion 360 ansehen](https://a360.co/4cJ5Ajy)**
+- 🔌 **[Hauptplatine (PCB) in Fusion 360 ansehen](https://a360.co/3YcFeBx)**
+- 📦 **[Gesamtzusammenbau (Assembly) in Fusion 360 ansehen](https://a360.co/4cJ5Ajy)**
 
 ### Repository
+
 Der Quellcode und die Hardware-Dateien liegen im GitHub-Repository:
 [📂 GitHub: Hutschienenmoped-XL](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS_Hardware/tree/master/Hutschienenmoped-XL)
 
@@ -51,15 +52,16 @@ Hier einige Einblicke in die Hardware:
 
 ## ℹ️ Technische Details
 
-* **Controller:** ESP32 (M5Stack Atom / Atom Lite kompatibel)
-* **Spannungsversorgung:** 12V (Bordnetz)
-* **Schnittstellen:**
-    * ISOBUS (CAN)
-    * WLAN / Bluetooth (via ESP32)
-    * Erweiterungsports für Sensoren/Aktoren
+- **Controller:** ESP32 (M5Stack Atom / Atom Lite kompatibel)
+- **Spannungsversorgung:** 12V (Bordnetz)
+- **Schnittstellen:**
+    - ISOBUS (CAN)
+    - WLAN / Bluetooth (via ESP32)
+    - Erweiterungsports für Sensoren/Aktoren
 
 ---
 
 ### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
-* [🌐 ESP32 & ESP32-S3 DevKit auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/)
-* [🌐 Leiterplatten-Entwurf & Bestückung auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)
+
+- [🌐 ESP32 & ESP32-S3 DevKit auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/)
+- [🌐 Leiterplatten-Entwurf & Bestückung auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)

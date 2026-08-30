@@ -2,7 +2,7 @@
 
 
 
-## Unterscheidung von Endschaltern für Pneumatikzylinder:
+## Unterscheidung von Endschaltern für Pneumatikzylinder
 
 [https://www.ifm.com/at/de/shared/produkte/zylindersensoren/technologie](https://www.ifm.com/at/de/shared/produkte/zylindersensoren/technologie)
 
@@ -23,14 +23,14 @@ Die wichtigsten Eigenschaften eines Reed-Schalters sind:
 
 Eigenschaften des Reedschalters:
 
-*   Öffner: immer 2-Leiter-Technik
-*   Schließer: immer 2-Leiter-Technik
-*   Wechsler (selten): 3-Leiter
-*   Es ist im Datenblatt immer nur die MAX-Spannung angegeben
-*   Stromrichtung: egal
-    *   Masse-Klemme: nicht vorhanden
-    *   in der Regel keine LED (Sonderbauformen ausgenommen)
-    *   nicht kurzschlussgeschützt !!!
+-   Öffner: immer 2-Leiter-Technik
+-   Schließer: immer 2-Leiter-Technik
+-   Wechsler (selten): 3-Leiter
+-   Es ist im Datenblatt immer nur die MAX-Spannung angegeben
+-   Stromrichtung: egal
+    -   Masse-Klemme: nicht vorhanden
+    -   in der Regel keine LED (Sonderbauformen ausgenommen)
+    -   nicht kurzschlussgeschützt !!!
 
 [https://www.ifm.com/de/de/product/MR0100](https://www.ifm.com/de/de/product/MR0100)
 
@@ -40,26 +40,26 @@ Eigenschaften des Reedschalters:
 
 Immer Angegeben: z.B.  5...36 V DC
 
-*   Minimal und Maximalspannung angegeben !!!
-*   Öffner: meist 3-Leiter-Technik
-*   Schließer: meist 3-Leiter-Technik
-*   Wechsler: 4-Leiter
-*   Stromrichtung: whichtig, siehe PNP/NPN, L+ L-
-    *   Masse-Klemme: nicht vorhanden
-    *   in der Regel keine LED (Sonderbauformen ausgenommen)
-    *   moderne Bauarten sind kurzschlussgeschützt, kann nicht durchbrennen
+-   Minimal und Maximalspannung angegeben !!!
+-   Öffner: meist 3-Leiter-Technik
+-   Schließer: meist 3-Leiter-Technik
+-   Wechsler: 4-Leiter
+-   Stromrichtung: whichtig, siehe PNP/NPN, L+ L-
+    -   Masse-Klemme: nicht vorhanden
+    -   in der Regel keine LED (Sonderbauformen ausgenommen)
+    -   moderne Bauarten sind kurzschlussgeschützt, kann nicht durchbrennen
 
 Beispiel: [https://www.ifm.com/de/de/product/MK5214](https://www.ifm.com/de/de/product/MK5214) (kurzschussfest; überlastfest)
 
 #### PNP Sensor
 
-![](https://user-images.githubusercontent.com/69573151/223118993-3d7325eb-8fa6-451e-b90b-1ac3028e7764.png)
+![HutschienenMoped Eingangsbelegung](https://user-images.githubusercontent.com/69573151/223118993-3d7325eb-8fa6-451e-b90b-1ac3028e7764.png)
 
 Quelle: [https://www.ifm.com/de/de/product/MK5140](https://www.ifm.com/de/de/product/MK5140)
 
 #### NPN - Sensor
 
-![](https://user-images.githubusercontent.com/69573151/223119312-1da2bd00-5cbf-4606-bea7-73da028c0ae0.png)
+![HutschienenMoped Eingangsbelegung](https://user-images.githubusercontent.com/69573151/223119312-1da2bd00-5cbf-4606-bea7-73da028c0ae0.png)
 
 Quelle: [https://www.ifm.com/de/de/product/MK5309](https://www.ifm.com/de/de/product/MK5309)
 
@@ -96,7 +96,7 @@ Insgesamt ist die GMR-Zelle ein sehr vielseitiges Bauelement, das in vielen vers
 
 ## Anschluss Endschalter an Eingang
 
-![](https://cdn.shopify.com/s/files/1/0056/7689/2250/products/7_da00f974-6952-4ad6-9f08-beaab6c888d5_1200x1200.jpg?v=1655692121)
+![HutschienenMoped Eingangsbelegung](https://cdn.shopify.com/s/files/1/0056/7689/2250/products/7_da00f974-6952-4ad6-9f08-beaab6c888d5_1200x1200.jpg?v=1655692121)
 
 M5 Stack:
 
@@ -110,7 +110,7 @@ Spannung vom Sensor:
 
 Spannungsteiler:
 
-![](https://user-images.githubusercontent.com/69573151/223125789-46ed37a7-2fca-48a4-8d62-4cc9b57bb5f4.png)
+![HutschienenMoped Eingangsbelegung](https://user-images.githubusercontent.com/69573151/223125789-46ed37a7-2fca-48a4-8d62-4cc9b57bb5f4.png)
 
 [https://www.digikey.de/de/resources/conversion-calculators/conversion-calculator-voltage-divider](https://www.digikey.de/de/resources/conversion-calculators/conversion-calculator-voltage-divider)
 
@@ -123,7 +123,7 @@ Weil:
 
 [https://www.electronicsplanet.ch/Widerstand/Widerstandsreihe-E24.htm](https://www.electronicsplanet.ch/Widerstand/Widerstandsreihe-E24.htm)
 
-![](https://user-images.githubusercontent.com/69573151/223126038-5d9b7d5e-2608-4ebf-8e39-4226a0df0cd0.png)
+![HutschienenMoped Eingangsbelegung](https://user-images.githubusercontent.com/69573151/223126038-5d9b7d5e-2608-4ebf-8e39-4226a0df0cd0.png)
 
 ## Grove System
 
@@ -146,6 +146,7 @@ Multiplexer
 ---
 
 ### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
-* [🌐 Gesamtwiderstand in Reihen- & Parallelschaltung auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/gesamtwiderstand-reihen-parallelschaltung/)
-* [🌐 Belasteter & Unbelasteter Spannungsteiler auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/spannungsteiler/)
-* [🌐 Bipolartransistor Grundlagen auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/bipolartransistor/bipolarer-transistor/)
+
+- [🌐 Gesamtwiderstand in Reihen- & Parallelschaltung auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/gesamtwiderstand-reihen-parallelschaltung/)
+- [🌐 Belasteter & Unbelasteter Spannungsteiler auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/spannungsteiler/)
+- [🌐 Bipolartransistor Grundlagen auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/bipolartransistor/bipolarer-transistor/)

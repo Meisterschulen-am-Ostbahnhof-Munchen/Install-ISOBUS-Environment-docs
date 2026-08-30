@@ -3,7 +3,7 @@
 
 ## 🎧 Podcast
 
-* [Hutschienenmoped XL: ISOBUS ECU Entwicklung](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Hutschienenmoped-XL-ISOBUS-ECU-Entwicklung-e368hdg)
+- [Hutschienenmoped XL: ISOBUS ECU Entwicklung](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Hutschienenmoped-XL-ISOBUS-ECU-Entwicklung-e368hdg)
 
 ## 📂 Repository & Ressourcen
 
@@ -16,10 +16,11 @@ Der Quellcode und die Hardware-Dateien liegen im GitHub-Repository:
 
 Das Hutschienenmoped verfügt über abgesicherte Ausgänge und flexible Anschlussmöglichkeiten.
 
-* **Absicherung:** Die einzelnen Ausgänge sind durch MOSFETs abgesichert (siehe Datenblatt).
-* **Stromversorgung:** Die Spannungseinspeisung benötigt zum Leitungsschutz eine externe Sicherung.
+- **Absicherung:** Die einzelnen Ausgänge sind durch MOSFETs abgesichert (siehe Datenblatt).
+- **Stromversorgung:** Die Spannungseinspeisung benötigt zum Leitungsschutz eine externe Sicherung.
 
 ### Pinbelegung
+
 ![Übersicht Pinbelegung](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/raw/main/images/Uebersicht2.jpeg)
 
 ---
@@ -29,6 +30,7 @@ Das Hutschienenmoped verfügt über abgesicherte Ausgänge und flexible Anschlus
 Das Gerät kann je nach Anwendungsfall unterschiedlich betrieben werden.
 
 ### Betrieb mit 4-poligem Kabel
+
 Für den Betrieb mit einem 4-poligen Kabel müssen **zwei Brücken** gesteckt werden.
 
 | Ansicht | Beschreibung |
@@ -59,4 +61,5 @@ Das Gehäuse ist für verschiedene Montageszenarien ausgelegt.
 ---
 
 ### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
-* [🌐 Leiterplatten-Entwurf & Bestückung auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)
+
+- [🌐 Leiterplatten-Entwurf & Bestückung auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)

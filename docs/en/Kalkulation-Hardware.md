@@ -1,4 +1,5 @@
 # Hardware Cost Calculation
+
 Our ECU is based on the ATOM from M5 Stack.
 Schematic:
 [https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS_Hardware](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS_Hardware)]
@@ -33,4 +34,5 @@ Here is the cost calculation:
 --
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
-* [🌐 ESP32 & ESP32-S3 DevKit on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/)
+
+- [🌐 ESP32 & ESP32-S3 DevKit on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/)
