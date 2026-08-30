@@ -19,11 +19,11 @@ Alternatively, you can also find it at \<<https://www.gitkraken.com/download/win
 
 There, double-click on GitKrakenSetup.exe
 
-<img src="https://user-images.githubusercontent.com/69573151/92911576-4ebbfa00-f429-11ea-943a-3d9d0b20ad84.png" />
+<img src="https://user-images.githubusercontent.com/69573151/92911576-4ebbfa00-f429-11ea-943a-3d9d0b20ad84.png" alt="GitKraken GUI interface 1 (📦 Installing and using Gitkraken)" />
 
 My start screen looks like this:
 
-<img src="https://user-images.githubusercontent.com/69573151/92912519-2b457f00-f42a-11ea-8fda-f9aac43a0922.png" />
+<img src="https://user-images.githubusercontent.com/69573151/92912519-2b457f00-f42a-11ea-8fda-f9aac43a0922.png" alt="GitKraken GUI interface 2 (📦 Installing and using Gitkraken)" />
 
 Now you have two options:
 
@@ -34,13 +34,13 @@ So, we'll only describe the first option here:
 
 If you click "Sign in With Github" (you must leave the fields below blank >\`\_), then the browser will open:
 
-<img src="https://user-images.githubusercontent.com/69573151/92913245-e2da9100-f42a-11ea-9c2b-151fbe643ae9.png" />
+<img src="https://user-images.githubusercontent.com/69573151/92913245-e2da9100-f42a-11ea-9c2b-151fbe643ae9.png" alt="GitKraken GUI interface 3 (📦 Installing and using Gitkraken)" />
 
 Click "Continue authorization"
 
 Now you should see something like this:
 
-<img src="https://user-images.githubusercontent.com/69573151/92914054-95125880-f42b-11ea-964c-8ced86d4e785.png" />
+<img src="https://user-images.githubusercontent.com/69573151/92914054-95125880-f42b-11ea-964c-8ced86d4e785.png" alt="GitKraken GUI interface 4 (📦 Installing and using Gitkraken)" />
 
 By the way: if you don't like your photo, you can freely customize it on Github.
 
@@ -48,37 +48,37 @@ Click on "Authorize Axosoft" and check the box next to Meisterschulen-am-Ostbahn
 
 If this window appears, it It works:
 
-<img src="https://user-images.githubusercontent.com/69573151/92914441-ede1f100-f42b-11ea-84c5-3ee23896bacc.png" />
+<img src="https://user-images.githubusercontent.com/69573151/92914441-ede1f100-f42b-11ea-84c5-3ee23896bacc.png" alt="GitKraken GUI interface 5 (📦 Installing and using Gitkraken)" />
 
 Back in Gitkraken, you should see this:
 
-<img src="https://user-images.githubusercontent.com/69573151/92914589-0c47ec80-f42c-11ea-98f0-ab1d44ed7d9b.png" />
+<img src="https://user-images.githubusercontent.com/69573151/92914589-0c47ec80-f42c-11ea-98f0-ab1d44ed7d9b.png" alt="GitKraken GUI interface 6 (📦 Installing and using Gitkraken)" />
 
 Enter your name, etc.,
 
 like this, for example:
 
-<img src="https://user-images.githubusercontent.com/69573151/92914748-35687d00-f42c-11ea-8d83-c42fecd81ef5.png" />
+<img src="https://user-images.githubusercontent.com/69573151/92914748-35687d00-f42c-11ea-8d83-c42fecd81ef5.png" alt="GitKraken GUI interface 7 (📦 Installing and using Gitkraken)" />
 
 and then click on Save changes.
 
-<img src="https://user-images.githubusercontent.com/69573151/92914891-5761ff80-f42c-11ea-8d12-4053ea272294.png" />
+<img src="https://user-images.githubusercontent.com/69573151/92914891-5761ff80-f42c-11ea-8d12-4053ea272294.png" alt="GitKraken GUI interface 8 (📦 Installing and using Gitkraken)" />
 
 Check the box here and click "I Agree".
 
-<img src="https://user-images.githubusercontent.com/69573151/92915187-9bed9b00-f42c-11ea-9a75-a33c46bf9cf3.png" />
+<img src="https://user-images.githubusercontent.com/69573151/92915187-9bed9b00-f42c-11ea-9a75-a33c46bf9cf3.png" alt="GitKraken GUI interface 9 (📦 Installing and using Gitkraken)" />
 
 It doesn't matter what you choose here; Gitkraken will automatically give you a trial of the Pro version. Therefore, we select "Start my Pro trial".
 
 (See above for a way for students to get a free Pro trial for more than 7 days >\`\_
 
-<img src="https://user-images.githubusercontent.com/69573151/92915186-9bed9b00-f42c-11ea-97c4-a73093bd4907.png" />
+<img src="https://user-images.githubusercontent.com/69573151/92915186-9bed9b00-f42c-11ea-97c4-a73093bd4907.png" alt="GitKraken GUI interface 10 (📦 Installing and using Gitkraken)" />
 
 Now click on Update Ready,
 
 and then it should look like this. Appearance:
 
-<img src="https://user-images.githubusercontent.com/69573151/92915185-9bed9b00-f42c-11ea-8614-9cdcbe89b6bd.png" />
+<img src="https://user-images.githubusercontent.com/69573151/92915185-9bed9b00-f42c-11ea-8614-9cdcbe89b6bd.png" alt="GitKraken GUI interface 11 (📦 Installing and using Gitkraken)" />
 
 Next, we'll get two repositories.
 
@@ -90,23 +90,23 @@ A network drive like E:\\ is a bad idea.
 
 Click "new tab" and "clone a repo"
 
-<img src="https://user-images.githubusercontent.com/69573151/92915673-15858900-f42d-11ea-9a77-5efa4c2d9de1.png" />
+<img src="https://user-images.githubusercontent.com/69573151/92915673-15858900-f42d-11ea-9a77-5efa4c2d9de1.png" alt="GitKraken GUI interface 12 (📦 Installing and using Gitkraken)" />
 
 In the next window, select "GitHub.com" and your previously chosen location,
 
 and select the "blink_on_atom" repository.
 
-<img src="https://user-images.githubusercontent.com/69573151/92915929-52ea1680-f42d-11ea-98d3-a6076c28c563.png" />
+<img src="https://user-images.githubusercontent.com/69573151/92915929-52ea1680-f42d-11ea-98d3-a6076c28c563.png" alt="GitKraken GUI interface 13 (📦 Installing and using Gitkraken)" />
 
 Click "Clone the repo!" and then "Open Now"
 
-<img src="https://user-images.githubusercontent.com/69573151/92916063-744b0280-f42d-11ea-9c8a-784a4c2f3923.png" />
+<img src="https://user-images.githubusercontent.com/69573151/92916063-744b0280-f42d-11ea-9c8a-784a4c2f3923.png" alt="GitKraken GUI interface 14 (📦 Installing and using Gitkraken)" />
 
 Now click the "+" at the top and repeat the process. Once:
 
-<img src="https://user-images.githubusercontent.com/69573151/92916437-c8ee7d80-f42d-11ea-904a-18f895ee3d3d.png" />
+<img src="https://user-images.githubusercontent.com/69573151/92916437-c8ee7d80-f42d-11ea-904a-18f895ee3d3d.png" alt="GitKraken GUI interface 15 (📦 Installing and using Gitkraken)" />
 
-<img src="https://user-images.githubusercontent.com/69573151/92916507-df94d480-f42d-11ea-908e-1744bc39745a.png" />
+<img src="https://user-images.githubusercontent.com/69573151/92916507-df94d480-f42d-11ea-908e-1744bc39745a.png" alt="GitKraken GUI interface 16 (📦 Installing and using Gitkraken)" />
 
 This time, select "ISOMAN".
 
@@ -114,15 +114,15 @@ Click "Open Now" again
 
 and confirm with YES.
 
-<img src="https://user-images.githubusercontent.com/69573151/92916690-081cce80-f42e-11ea-9674-ae7c4265562a.png" />
+<img src="https://user-images.githubusercontent.com/69573151/92916690-081cce80-f42e-11ea-9674-ae7c4265562a.png" alt="GitKraken GUI interface 17 (📦 Installing and using Gitkraken)" />
 
 The bottom left should then look like this:
 
-<img src="https://user-images.githubusercontent.com/69573151/92916803-22ef4300-f42e-11ea-8588-4b811f4a2519.png" />
+<img src="https://user-images.githubusercontent.com/69573151/92916803-22ef4300-f42e-11ea-8588-4b811f4a2519.png" alt="GitKraken GUI interface 18 (📦 Installing and using Gitkraken)" />
 
 After a while, it should look like this:
 
-<img src="https://user-images.githubusercontent.com/69573151/92916952-4c0fd380-f42e-11ea-895b-46522bc8d9f6.png" />
+<img src="https://user-images.githubusercontent.com/69573151/92916952-4c0fd380-f42e-11ea-895b-46522bc8d9f6.png" alt="GitKraken GUI interface 19 (📦 Installing and using Gitkraken)" />
 
 So, that's it for Gitkraken today.
 
