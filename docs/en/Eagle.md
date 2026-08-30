@@ -1,8 +1,8 @@
 # Eagle
 ## 🎧 Podcast
-* [From a Bavarian village to the Autodesk Cloud: The fascinating metamorphosis of the software legend EAGLE CAD ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Vom-bayerischen-Dorf-in-die-Autodesk-Cloud-Die-faszinierende-Metamorphose-der-Software-Legende-EAGLE-CAD-e3a5ard)
+- [From a Bavarian village to the Autodesk Cloud: The fascinating metamorphosis of the software legend EAGLE CAD ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Vom-bayerischen-Dorf-in-die-Autodesk-Cloud-Die-faszinierende-Metamorphose-der-Software-Legende-EAGLE-CAD-e3a5ard)
 ## 📺 Video
-* [EAGLE CAD: A Legend ](https://www.youtube.com/watch?v=ly1zAMmhnJ4)
+- [EAGLE CAD: A Legend ](https://www.youtube.com/watch?v=ly1zAMmhnJ4)
 ## End of life:
 
 On June 7, 2026, EAGLE will no longer be available.

@@ -25,7 +25,7 @@ html_meta:
 
 > **C/C++ programming for embedded systems** is the technical basis for implementing standards-compliant ISOBUS communication stacks (ISO 11783) on agricultural and construction machinery (Part I LE 1.4 and Part II LE 1.1).
 
-* 📋 **[This is in the curriculum – C Programming in ISOBUS](#das-steht-im-lehrplan)**
+- 📋 **[This is in the curriculum – C Programming in ISOBUS](#das-steht-im-lehrplan)**
 
 ---
 
@@ -35,12 +35,12 @@ This documentation is part of the knowledge base of the Master Craftsmen's Schoo
 
 **Useful Links & Main Portal:**
 
-* 🌐 [**Main Portal Master Schools Munich**](https://www.ms-muc-docs.de/)
-* 📋 [**What's in the Curriculum (Curriculum 2025)**](#das-steht-im-lehrplan)
-* 📋 [Interactive Framework Curriculum 2025](https://www.ms-muc-docs.de/infos/interaktiver-rahmenlehrplan)
-* 📄 [Central PDF Download Hub](https://www.ms-muc-docs.de/wikis/alle-pdfs)
-* [🔍 Super Search (all Wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/en/latest/)
-* [📄 Download PDF Handbook](https://meisterschulen-am-ostbahnhof-munchen.github.io/Install-ISOBUS-Environment-docs/en/pdf/install-isobus-environment-docs-en.pdf)
+- 🌐 [**Main Portal Master Schools Munich**](https://www.ms-muc-docs.de/)
+- 📋 [**What's in the Curriculum (Curriculum 2025)**](#das-steht-im-lehrplan)
+- 📋 [Interactive Framework Curriculum 2025](https://www.ms-muc-docs.de/infos/interaktiver-rahmenlehrplan)
+- 📄 [Central PDF Download Hub](https://www.ms-muc-docs.de/wikis/alle-pdfs)
+- [🔍 Super Search (all Wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/en/latest/)
+- [📄 Download PDF Handbook](https://meisterschulen-am-ostbahnhof-munchen.github.io/Install-ISOBUS-Environment-docs/en/pdf/install-isobus-environment-docs-en.pdf)
 
 ---
 
@@ -48,7 +48,7 @@ This documentation is part of the knowledge base of the Master Craftsmen's Schoo
 
 This project is under active development.
 
-* **Contents**
+- **Contents**
 
 ---
 
@@ -93,9 +93,9 @@ also Soil Moisture: <https://wiki.seeedstudio.com/Grove-Capacitive_Moisture_Sens
 <!-- PAGE_START: Eagle.md -->
 # Eagle {#eagle}
 ## 🎧 Podcast
-* [From a Bavarian village to the Autodesk Cloud: The fascinating metamorphosis of the software legend EAGLE CAD ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Vom-bayerischen-Dorf-in-die-Autodesk-Cloud-Die-faszinierende-Metamorphose-der-Software-Legende-EAGLE-CAD-e3a5ard)
+- [From a Bavarian village to the Autodesk Cloud: The fascinating metamorphosis of the software legend EAGLE CAD ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Vom-bayerischen-Dorf-in-die-Autodesk-Cloud-Die-faszinierende-Metamorphose-der-Software-Legende-EAGLE-CAD-e3a5ard)
 ## 📺 Video
-* [EAGLE CAD: A Legend ](https://www.youtube.com/watch?v=ly1zAMmhnJ4)
+- [EAGLE CAD: A Legend ](https://www.youtube.com/watch?v=ly1zAMmhnJ4)
 ## End of life:
 
 On June 7, 2026, EAGLE will no longer be available.
@@ -263,16 +263,16 @@ You can close it.
 <!-- PAGE_START: Hardware.md -->
 # 🔌 Hardware {#hardware}
 ## 🎧 Podcast
-* [Automation 4.0: Why Software Is Overtaking Hardware and What That Means for Your Skills]
-* [PLC: The Invisible Brain of Industry – From Robust Hardware to IT/OT Convergence]
-* [Universal Automation: How to Decouple Software and Hardware for the Future of Industry]
+- [Automation 4.0: Why Software Is Overtaking Hardware and What That Means for Your Skills]
+- [PLC: The Invisible Brain of Industry – From Robust Hardware to IT/OT Convergence]
+- [Universal Automation: How to Decouple Software and Hardware for the Future of Industry]
 <!-- PAGE_END: Hardware.md -->
 
 
 <!-- PAGE_START: Home.md -->
 # Homepage {#home}
 ## 🎧 Podcast
-* [logiBUS®: Revolutionizing Agricultural IT – How ISOBUS Becomes a Smart Home for Farmers
+- [logiBUS®: Revolutionizing Agricultural IT – How ISOBUS Becomes a Smart Home for Farmers
 <!-- PAGE_END: Home.md -->
 
 
@@ -300,14 +300,14 @@ The main characteristics of a reed switch are:
 
 Reed Switch Characteristics:
 
-* Normally Open: always 2-wire technology
-* Normally Closed: always 2-wire technology
-* Changeover (rare): 3-wire technology
-* Only the maximum voltage is specified in the datasheet
-* Current Direction: irrelevant
-* Ground Terminal: not present
-* Usually no LED (except for special designs)
-* Not short-circuit protected!!!
+- Normally Open: always 2-wire technology
+- Normally Closed: always 2-wire technology
+- Changeover (rare): 3-wire technology
+- Only the maximum voltage is specified in the datasheet
+- Current Direction: irrelevant
+- Ground Terminal: not present
+- Usually no LED (except for special designs)
+- Not short-circuit protected!!!
 
 [https://www.ifm.com/de/de/product/MR0100](https://www.ifm.com/de/de/product/MR0100)
 
@@ -317,16 +317,16 @@ Reed Switch Characteristics:
 
 Always Specified: e.g., 5...36 V DC
 
-* Minimum and maximum voltage specified!!!
+- Minimum and maximum voltage specified!!!
 
 `` * Normally open (NO) contact: usually 3-wire technology
 
-* Normally closed (NC) contact: usually 3-wire technology
-* Changeover contact: 4-wire
-* Current direction: alternating, see PNP/NPN, L+ L-
-* Ground terminal: not present
-* Usually no LED (except for special designs)
-* Modern designs are short-circuit protected, cannot burn out
+- Normally closed (NC) contact: usually 3-wire technology
+- Changeover contact: 4-wire
+- Current direction: alternating, see PNP/NPN, L+ L-
+- Ground terminal: not present
+- Usually no LED (except for special designs)
+- Modern designs are short-circuit protected, cannot burn out
 
 Example: [https://www.ifm.com/de/de/product/MK5214](https://www.ifm.com/de/de/product/MK5214) (short-circuit proof; overload proof)
 
@@ -436,9 +436,9 @@ Multiplexers
 ---
 
 ### 🌐 Related Topic Subpages on ms-muc-docs.de
-* [🌐 Total Resistance in Series & Parallel Circuits on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/gesamtwiderstand-reihen-parallelschaltung/)
-* [🌐 Loaded & Unloaded Voltage Dividers on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/spannungsteiler/)
-* [🌐 Bipolar transistor fundamentals at ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/bipolartransistor/bipolarer-transistor/)
+- [🌐 Total Resistance in Series & Parallel Circuits on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/gesamtwiderstand-reihen-parallelschaltung/)
+- [🌐 Loaded & Unloaded Voltage Dividers on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/spannungsteiler/)
+- [🌐 Bipolar transistor fundamentals at ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/bipolartransistor/bipolarer-transistor/)
 
 <!-- PAGE_END: HutschienenMoped-Eingaenge.md -->
 
@@ -469,7 +469,7 @@ This photo series documents the correct wiring and connector types used for the 
 ## 1. Basic Wiring and Connections
 The module's basic wiring on the DIN rail is done via red and black wires (power supply and ground), which are connected to the circuit board's pin headers using spade connectors.
 
-* **Connector Type:** 6.3 mm spade connectors are used as standard.
+- **Connector Type:** 6.3 mm spade connectors are used as standard.
 ![Image](img/downloaded/0aa8c7481f9198ff76b459b59e936ae1.jpg)
 
 6.3 mm Spade Connectors
@@ -512,7 +512,7 @@ The fully wired module in active operation: The green LEDs inside the housing ar
 <!-- PAGE_START: HutschienenMoped.md -->
 # DINRailMoped {#hutschienenmoped}
 ## 🎧 Podcast
-* [DINRailMoped XL: ISOBUS ECU Development](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Hutschienenmoped-XL-ISOBUS-ECU-Entwicklung-e368hdg)]
+- [DINRailMoped XL: ISOBUS ECU Development](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Hutschienenmoped-XL-ISOBUS-ECU-Entwicklung-e368hdg)]
 ## 📂 Repository & Resources
 The source code and hardware files are located in the GitHub repository:
 [📂 GitHub: DINRailMoped](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS_Hardware/tree/master/Hutschienenmoped)]
@@ -523,8 +523,8 @@ The source code and hardware files are located in the GitHub repository:
 
 The DIN rail moped features fused outputs and flexible connection options.
 
-* **Fuse Protection:** The individual outputs are protected by MOSFETs (see datasheet).
-* **Power Supply:** The power supply requires an external fuse for line protection.
+- **Fuse Protection:** The individual outputs are protected by MOSFETs (see datasheet).
+- **Power Supply:** The power supply requires an external fuse for line protection.
 
 ### Pin Assignment
 ![Übersicht Pinbelegung](img/downloaded/be6671c80ae6d29b773b74f7b034df89.jpg)
@@ -566,7 +566,7 @@ The housing is designed for various mounting scenarios.
 --
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
-* [🌐 PCB design & assembly on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)
+- [🌐 PCB design & assembly on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)
 <!-- PAGE_END: HutschienenMoped.md -->
 
 
@@ -574,10 +574,10 @@ The housing is designed for various mounting scenarios.
 # DIN Rail Moped XL {#hutschienenmopedxl}
 The **DIN Rail Moped XL** is the enhanced version of our open-source ECU. It was specifically developed for integration into ISOBUS systems and is ideally suited for demanding control tasks in agricultural machinery.
 ## 🌟 Highlights
-* **ISOBUS Compatible:** Full support for **ISO 11783**.
-* **IEC 61499:** Prepared for distributed control systems.
-* **Open Source:** The hardware is fully disclosed and certified.
-* **Expandable:** Thanks to its modular design and the use of the ESP32, the system can be flexibly adapted.
+- **ISOBUS Compatible:** Full support for **ISO 11783**.
+- **IEC 61499:** Prepared for distributed control systems.
+- **Open Source:** The hardware is fully disclosed and certified.
+- **Expandable:** Thanks to its modular design and the use of the ESP32, the system can be flexibly adapted.
 
 ---
 
@@ -585,8 +585,8 @@ The **DIN Rail Moped XL** is the enhanced version of our open-source ECU. It was
 
 The DIN Rail Moped XL is officially certified as open-source hardware.
 
-* **UID:** [DE000145](https://certification.oshwa.org/de000145.html)
-* **Certification Authority:** Open Source Hardware Association (OSHWA)
+- **UID:** [DE000145](https://certification.oshwa.org/de000145.html)
+- **Certification Authority:** Open Source Hardware Association (OSHWA)
 
 [![OSHWA Certification DE000145](img/downloaded/c4e6fe7bd750b81c0c5defaab098201a.png)](https://certification.oshwa.org/de000145.html)
 
@@ -596,8 +596,8 @@ The DIN Rail Moped XL is officially certified as open-source hardware.
 
 Hardware design is maintained in Autodesk Fusion 360. Here you can view the current 3D models and schematics:
 
-* 🔌 **[View mainboard (PCB) in Fusion 360 ](https://a360.co/3YcFeBx)**
-* 📦 **[View complete assembly in Fusion 360 ](https://a360.co/4cJ5Ajy)**
+- 🔌 **[View mainboard (PCB) in Fusion 360 ](https://a360.co/3YcFeBx)**
+- 📦 **[View complete assembly in Fusion 360 ](https://a360.co/4cJ5Ajy)**
 
 ### Repository
 The source code and hardware files are located in the GitHub repository:
@@ -619,18 +619,18 @@ Here are some insights into the hardware:
 ---
 
 ## ℹ️ Technical Details
-* **Controller:** ESP32 (M5Stack Atom / Atom Lite compatible)
-* **Power Supply:** 12V (vehicle electrical system)
-* **Interfaces:**
-* ISOBUS (CAN)
-* Wi-Fi / Bluetooth (via ESP32)
-* Expansion ports for sensors/actuators
+- **Controller:** ESP32 (M5Stack Atom / Atom Lite compatible)
+- **Power Supply:** 12V (vehicle electrical system)
+- **Interfaces:**
+- ISOBUS (CAN)
+- Wi-Fi / Bluetooth (via ESP32)
+- Expansion ports for sensors/actuators
 
 ---
 
 ### 🌐 Related topics on ms-muc-docs.de
-* [🌐 ESP32 & ESP32-S3 DevKit on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/)
-* [🌐 PCB Design & Assembly on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)
+- [🌐 ESP32 & ESP32-S3 DevKit on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/)
+- [🌐 PCB Design & Assembly on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)
 
 <!-- PAGE_END: HutschienenMopedXL.md -->
 
@@ -731,7 +731,7 @@ cool:
 ---
 
 ### 🌐 Relevant topic subpages on ms-muc-docs.de
-* [🌐 ESP32 & ESP32-S3 DevKit on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/)
+- [🌐 ESP32 & ESP32-S3 DevKit on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/)
 
 <!-- PAGE_END: JTAG-S3-USB.md -->
 
@@ -894,7 +894,7 @@ Here is the cost calculation:
 --
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
-* [🌐 ESP32 & ESP32-S3 DevKit on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/)
+- [🌐 ESP32 & ESP32-S3 DevKit on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/)
 <!-- PAGE_END: Kalkulation-Hardware.md -->
 
 
@@ -953,16 +953,16 @@ qzms docs000013qz
 
 ![Image](img/downloaded/30631ac47adfb1b44ce5bfe2d868cdee.png)
 ## 🎧 Podcast {#lego}
-* [Eclipse 4diac FORTE: Understanding IEC 61499 – The LEGO® Building Blocks for Your Industry 4.0 Control System ](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Eclipse-4diac-FORTE-IEC-61499-verstehen--Der-LEGO-Baukasten-fr-Ihre-Industrie-4-0-Steuerung-e3682kc)
-* [DIN EN 61499-1: The Digital LEGO Building Blocks for Flexible Automation and a Smart Future ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61499-1-Der-digitale-Lego-Baukasten-fr-flexible-Automatisierung-und-smarte-Zukunft-e3681pb)
-* [DIN EN 61499-1: The LEGO Bricks for Flexible and Event-Driven Industrial Control Systems ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61499-1-Die-Lego-Steine-fr-flexible-und-ereignisgesteuerte-Industriesteuerungen-e3681o1)
-* [EventFBs according to IEC 61499: LEGO Bricks of Automation – How Event Function Blocks Work ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/EventFBs-nach-IEC-61499-Legosteine-der-Automatisierung--So-funktionieren-Ereignis-Funktionsbausteine-e375gjm)
-* [IEC 61499-1: The Function Block – LEGO Principle for Modern Control Systems in Agricultural and Construction Machinery ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-1-Der-Funktionsbaustein--Lego-Prinzip-fr-moderne-Steuerungssysteme-in-Land--und-Baumaschinen-e36a7q2)
+- [Eclipse 4diac FORTE: Understanding IEC 61499 – The LEGO® Building Blocks for Your Industry 4.0 Control System ](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Eclipse-4diac-FORTE-IEC-61499-verstehen--Der-LEGO-Baukasten-fr-Ihre-Industrie-4-0-Steuerung-e3682kc)
+- [DIN EN 61499-1: The Digital LEGO Building Blocks for Flexible Automation and a Smart Future ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61499-1-Der-digitale-Lego-Baukasten-fr-flexible-Automatisierung-und-smarte-Zukunft-e3681pb)
+- [DIN EN 61499-1: The LEGO Bricks for Flexible and Event-Driven Industrial Control Systems ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61499-1-Die-Lego-Steine-fr-flexible-und-ereignisgesteuerte-Industriesteuerungen-e3681o1)
+- [EventFBs according to IEC 61499: LEGO Bricks of Automation – How Event Function Blocks Work ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/EventFBs-nach-IEC-61499-Legosteine-der-Automatisierung--So-funktionieren-Ereignis-Funktionsbausteine-e375gjm)
+- [IEC 61499-1: The Function Block – LEGO Principle for Modern Control Systems in Agricultural and Construction Machinery ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-1-Der-Funktionsbaustein--Lego-Prinzip-fr-moderne-Steuerungssysteme-in-Land--und-Baumaschinen-e36a7q2)
 
 ---
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
-* [🌐 Eclipse 4diac IDE & Color Reference on ms-muc-docs.de](https://www.ms-muc-docs.de/iec-61499/eclipse-4diac/)
+- [🌐 Eclipse 4diac IDE & Color Reference on ms-muc-docs.de](https://www.ms-muc-docs.de/iec-61499/eclipse-4diac/)
 <!-- PAGE_END: Lego.md -->
 
 
@@ -975,9 +975,9 @@ qzms docs000013qz
 # Package {#paket}
 ![Image](img/downloaded/208c1308e554ad2dea079d2857cd8726.jpg)
 ## 🎧 Podcast
-* [Powerhouses in Action: The Secret of Hydraulic Cylinders – From Excavators to High-Tech Machines ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Kraftpakete-im-Einsatz-Das-Geheimnis-der-Hydraulikzylinder--Von-Baggern-bis-Hightech-Maschinen-e373ne8)
+- [Powerhouses in Action: The Secret of Hydraulic Cylinders – From Excavators to High-Tech Machines ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Kraftpakete-im-Einsatz-Das-Geheimnis-der-Hydraulikzylinder--Von-Baggern-bis-Hightech-Maschinen-e373ne8)
 ## 📺 Video
-* [Chip Becomes a Powerhouse ](https://www.youtube.com/watch?v=IudBn-pRUkU)
+- [Chip Becomes a Powerhouse ](https://www.youtube.com/watch?v=IudBn-pRUkU)
 
 ]
 <!-- PAGE_END: Paket.md -->
@@ -1334,14 +1334,14 @@ Special circumstances require special measures:
 
 - Execute a PULL command on cci_EasyExample
 - "CAN2IP" should be selected in sdkconfig
-* Screenshot:
+- Screenshot:
 ![Image](img/downloaded/c8c7762847fab256997818f06146b352.png)
 
 - Explanation: We now have two ways to connect to the ISOBUS ECU:
-* The "virtual" CAN, which is actually WLAN: CAN2IP
-* The "familiar" physical CAN, which is also present in the tractor: CAN
+- The "virtual" CAN, which is actually WLAN: CAN2IP
+- The "familiar" physical CAN, which is also present in the tractor: CAN
 - You also need to enter your SSID and password in sdkconfig
-* Screenshot:
+- Screenshot:
 
 ![Image](img/downloaded/5f3203faa7748d723ca7cf0d1aec5f8c.png)
 
@@ -1355,9 +1355,9 @@ Special circumstances require special measures:
 ![Image](img/downloaded/1968b4d4c1a37a5d98834fd2e12188d9.png)
 
 - Enter this IP address in the farm display.
-* For installation, see: [nx_farm_display](https://isobus-other-docs.readthedocs.io/de/latest/nx_farm_display.html)
-* Select "router 2" as the CAN interface.
-* Screenshot:
+- For installation, see: [nx_farm_display](https://isobus-other-docs.readthedocs.io/de/latest/nx_farm_display.html)
+- Select "router 2" as the CAN interface.
+- Screenshot:
 
 ![Image](img/downloaded/780cffedb8fa201ba47d25960ddbfe52.png)
 
@@ -1405,8 +1405,8 @@ Advantage: You don't have to build any hardware!
 ---
 
 ### 🌐 Relevant subpages on ms-muc-docs.de
-* [🌐 Eclipse 4diac IDE & Color Reference on ms-muc-docs.de](https://www.ms-muc-docs.de/iec-61499/eclipse-4diac/)
-* [🌐 MCU vs. MPU Comparison Guide on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/mpu-vs-mcu/mikroprozessor-mpu-vs-mikrocontroller-mcu/)
+- [🌐 Eclipse 4diac IDE & Color Reference on ms-muc-docs.de](https://www.ms-muc-docs.de/iec-61499/eclipse-4diac/)
+- [🌐 MCU vs. MPU Comparison Guide on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/mpu-vs-mcu/mikroprozessor-mpu-vs-mikrocontroller-mcu/)
 
 ## 🔗 Overview, Main Portal & Direct Links to all 6 Wikis
 

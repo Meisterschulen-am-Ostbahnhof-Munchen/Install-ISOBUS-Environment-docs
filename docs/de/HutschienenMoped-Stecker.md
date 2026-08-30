@@ -8,7 +8,7 @@ Diese Fotostrecke dokumentiert die korrekte Verkabelung und die verwendeten Stec
 
 Die Basisverdrahtung des Moduls auf der Hutschiene erfolgt über rote und schwarze Leitungen (Spannungsversorgung und Masse), die über Flachsteckhülsen mit den Stiftleisten der Platine verbunden sind.
 
-* **Steckertyp:** Standardmäßig kommen hier **6,3 mm Flachsteckhülsen** zum Einsatz.
+- **Steckertyp:** Standardmäßig kommen hier **6,3 mm Flachsteckhülsen** zum Einsatz.
 
 <img src="https://user-images.githubusercontent.com/69573151/131330812-b4942f7e-a731-4321-9e51-265eb43abbad.jpg" />
 

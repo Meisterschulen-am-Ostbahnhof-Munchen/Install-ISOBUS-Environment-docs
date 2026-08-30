@@ -21,7 +21,7 @@ myst:
 ### 📋 [Das steht im Lehrplan (Rahmenlehrplan 2025)](./das_steht_im_lehrplan.md)
 > **Die C/C++-Programmierung für eingebettete Systeme** ist die technische Grundlage für die Implementierung normgerechter ISOBUS-Kommunikationsstacks (ISO 11783) an Land- und Baumaschinen (Teil I LE 1.4 sowie Teil II LE 1.1).
 
-* 📋 **[Das steht im Lehrplan – C-Programmierung in ISOBUS](./das_steht_im_lehrplan.md)**
+- 📋 **[Das steht im Lehrplan – C-Programmierung in ISOBUS](./das_steht_im_lehrplan.md)**
 
 ---
 
@@ -31,12 +31,12 @@ Diese Dokumentation ist Teil der Wissensdatenbank der Meisterschulen am Ostbahnh
 
 **Nützliche Links & Hauptportal:**
 
-* 🌐 [**Hauptportal Meisterschulen München**](https://www.ms-muc-docs.de/)
-* 📋 [**Das steht im Lehrplan (Lehrplan 2025)**](./das_steht_im_lehrplan.md)
-* 📋 [Interaktiver Rahmenlehrplan 2025](https://www.ms-muc-docs.de/infos/interaktiver-rahmenlehrplan)
-* 📄 [Zentraler PDF-Download-Hub](https://www.ms-muc-docs.de/wikis/alle-pdfs)
-* [🔍 Super-Suche (alle Wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/de/latest/)
-* [📄 PDF-Handbuch herunterladen](https://meisterschulen-am-ostbahnhof-munchen.github.io/Install-ISOBUS-Environment-docs/de/pdf/install-isobus-environment-docs-de.pdf)
+- 🌐 [**Hauptportal Meisterschulen München**](https://www.ms-muc-docs.de/)
+- 📋 [**Das steht im Lehrplan (Lehrplan 2025)**](./das_steht_im_lehrplan.md)
+- 📋 [Interaktiver Rahmenlehrplan 2025](https://www.ms-muc-docs.de/infos/interaktiver-rahmenlehrplan)
+- 📄 [Zentraler PDF-Download-Hub](https://www.ms-muc-docs.de/wikis/alle-pdfs)
+- [🔍 Super-Suche (alle Wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/de/latest/)
+- [📄 PDF-Handbuch herunterladen](https://meisterschulen-am-ostbahnhof-munchen.github.io/Install-ISOBUS-Environment-docs/de/pdf/install-isobus-environment-docs-de.pdf)
 
 ---
 

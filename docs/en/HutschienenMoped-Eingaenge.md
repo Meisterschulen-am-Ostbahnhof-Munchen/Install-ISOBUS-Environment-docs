@@ -21,14 +21,14 @@ The main characteristics of a reed switch are:
 
 Reed Switch Characteristics:
 
-* Normally Open: always 2-wire technology
-* Normally Closed: always 2-wire technology
-* Changeover (rare): 3-wire technology
-* Only the maximum voltage is specified in the datasheet
-* Current Direction: irrelevant
-* Ground Terminal: not present
-* Usually no LED (except for special designs)
-* Not short-circuit protected!!!
+- Normally Open: always 2-wire technology
+- Normally Closed: always 2-wire technology
+- Changeover (rare): 3-wire technology
+- Only the maximum voltage is specified in the datasheet
+- Current Direction: irrelevant
+- Ground Terminal: not present
+- Usually no LED (except for special designs)
+- Not short-circuit protected!!!
 
 [https://www.ifm.com/de/de/product/MR0100](https://www.ifm.com/de/de/product/MR0100)
 
@@ -38,16 +38,16 @@ Reed Switch Characteristics:
 
 Always Specified: e.g., 5...36 V DC
 
-* Minimum and maximum voltage specified!!!
+- Minimum and maximum voltage specified!!!
 
-* Normally open (NO) contact: usually 3-wire technology
+- Normally open (NO) contact: usually 3-wire technology
 
-* Normally closed (NC) contact: usually 3-wire technology
-* Changeover contact: 4-wire
-* Current direction: alternating, see PNP/NPN, L+ L-
-* Ground terminal: not present
-* Usually no LED (except for special designs)
-* Modern designs are short-circuit protected, cannot burn out
+- Normally closed (NC) contact: usually 3-wire technology
+- Changeover contact: 4-wire
+- Current direction: alternating, see PNP/NPN, L+ L-
+- Ground terminal: not present
+- Usually no LED (except for special designs)
+- Modern designs are short-circuit protected, cannot burn out
 
 Example: [https://www.ifm.com/de/de/product/MK5214](https://www.ifm.com/de/de/product/MK5214) (short-circuit proof; overload proof)
 
@@ -157,7 +157,7 @@ Multiplexers
 ---
 
 ### 🌐 Related Topic Subpages on ms-muc-docs.de
-* [🌐 Total Resistance in Series & Parallel Circuits on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/gesamtwiderstand-reihen-parallelschaltung/)
-* [🌐 Loaded & Unloaded Voltage Dividers on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/spannungsteiler/)
-* [🌐 Bipolar transistor fundamentals at ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/bipolartransistor/bipolarer-transistor/)
+- [🌐 Total Resistance in Series & Parallel Circuits on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/gesamtwiderstand-reihen-parallelschaltung/)
+- [🌐 Loaded & Unloaded Voltage Dividers on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/spannungsteiler/)
+- [🌐 Bipolar transistor fundamentals at ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/bipolartransistor/bipolarer-transistor/)
 

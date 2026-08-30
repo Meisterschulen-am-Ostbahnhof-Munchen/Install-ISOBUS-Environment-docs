@@ -23,14 +23,14 @@ Die wichtigsten Eigenschaften eines Reed-Schalters sind:
 
 Eigenschaften des Reedschalters:
 
-*   Öffner: immer 2-Leiter-Technik
-*   Schließer: immer 2-Leiter-Technik
-*   Wechsler (selten): 3-Leiter
-*   Es ist im Datenblatt immer nur die MAX-Spannung angegeben
-*   Stromrichtung: egal
-    *   Masse-Klemme: nicht vorhanden
-    *   in der Regel keine LED (Sonderbauformen ausgenommen)
-    *   nicht kurzschlussgeschützt !!!
+-   Öffner: immer 2-Leiter-Technik
+-   Schließer: immer 2-Leiter-Technik
+-   Wechsler (selten): 3-Leiter
+-   Es ist im Datenblatt immer nur die MAX-Spannung angegeben
+-   Stromrichtung: egal
+    -   Masse-Klemme: nicht vorhanden
+    -   in der Regel keine LED (Sonderbauformen ausgenommen)
+    -   nicht kurzschlussgeschützt !!!
 
 [https://www.ifm.com/de/de/product/MR0100](https://www.ifm.com/de/de/product/MR0100)
 
@@ -40,14 +40,14 @@ Eigenschaften des Reedschalters:
 
 Immer Angegeben: z.B.  5...36 V DC
 
-*   Minimal und Maximalspannung angegeben !!!
-*   Öffner: meist 3-Leiter-Technik
-*   Schließer: meist 3-Leiter-Technik
-*   Wechsler: 4-Leiter
-*   Stromrichtung: whichtig, siehe PNP/NPN, L+ L-
-    *   Masse-Klemme: nicht vorhanden
-    *   in der Regel keine LED (Sonderbauformen ausgenommen)
-    *   moderne Bauarten sind kurzschlussgeschützt, kann nicht durchbrennen
+-   Minimal und Maximalspannung angegeben !!!
+-   Öffner: meist 3-Leiter-Technik
+-   Schließer: meist 3-Leiter-Technik
+-   Wechsler: 4-Leiter
+-   Stromrichtung: whichtig, siehe PNP/NPN, L+ L-
+    -   Masse-Klemme: nicht vorhanden
+    -   in der Regel keine LED (Sonderbauformen ausgenommen)
+    -   moderne Bauarten sind kurzschlussgeschützt, kann nicht durchbrennen
 
 Beispiel: [https://www.ifm.com/de/de/product/MK5214](https://www.ifm.com/de/de/product/MK5214) (kurzschussfest; überlastfest)
 
@@ -146,6 +146,6 @@ Multiplexer
 ---
 
 ### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
-* [🌐 Gesamtwiderstand in Reihen- & Parallelschaltung auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/gesamtwiderstand-reihen-parallelschaltung/)
-* [🌐 Belasteter & Unbelasteter Spannungsteiler auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/spannungsteiler/)
-* [🌐 Bipolartransistor Grundlagen auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/bipolartransistor/bipolarer-transistor/)
+- [🌐 Gesamtwiderstand in Reihen- & Parallelschaltung auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/gesamtwiderstand-reihen-parallelschaltung/)
+- [🌐 Belasteter & Unbelasteter Spannungsteiler auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/spannungsteiler/)
+- [🌐 Bipolartransistor Grundlagen auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/bipolartransistor/bipolarer-transistor/)

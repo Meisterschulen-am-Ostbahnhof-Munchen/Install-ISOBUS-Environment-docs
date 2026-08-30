@@ -1,6 +1,6 @@
 # DINRailMoped
 ## 🎧 Podcast
-* [DINRailMoped XL: ISOBUS ECU Development](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Hutschienenmoped-XL-ISOBUS-ECU-Entwicklung-e368hdg)]
+- [DINRailMoped XL: ISOBUS ECU Development](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Hutschienenmoped-XL-ISOBUS-ECU-Entwicklung-e368hdg)]
 ## 📂 Repository & Resources
 The source code and hardware files are located in the GitHub repository:
 [📂 GitHub: DINRailMoped](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS_Hardware/tree/master/Hutschienenmoped)]
@@ -11,8 +11,8 @@ The source code and hardware files are located in the GitHub repository:
 
 The DIN rail moped features fused outputs and flexible connection options.
 
-* **Fuse Protection:** The individual outputs are protected by MOSFETs (see datasheet).
-* **Power Supply:** The power supply requires an external fuse for line protection.
+- **Fuse Protection:** The individual outputs are protected by MOSFETs (see datasheet).
+- **Power Supply:** The power supply requires an external fuse for line protection.
 
 ### Pin Assignment
 ![Übersicht Pinbelegung](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/raw/main/images/Uebersicht2.jpeg)
@@ -54,4 +54,4 @@ The housing is designed for various mounting scenarios.
 --
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
-* [🌐 PCB design & assembly on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)
+- [🌐 PCB design & assembly on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)
