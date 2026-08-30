@@ -348,13 +348,13 @@ Example: [https://www.ifm.com/de/de/product/MK5214](https://www.ifm.com/de/de/pr
 
 #### PNP Sensor
 
-![](img/downloaded/d042aac12a1227662dccbba2978fb573.png)
+![PNP Sensor illustration](img/downloaded/d042aac12a1227662dccbba2978fb573.png)
 
 Source: [https://www.ifm.com/de/de/product/MK5140](https://www.ifm.com/de/de/product/MK5140)
 
 #### NPN Sensor
 
-![](img/downloaded/6901695adb709689688a6d7c2e964468.png)
+![NPN Sensor illustration](img/downloaded/6901695adb709689688a6d7c2e964468.png)
 
 Source: [https://www.ifm.com/de/de/product/MK5309](https://www.ifm.com/de/de/product/MK5309)
 
@@ -400,7 +400,7 @@ Overall, the GMR cell is a very versatile component that can be used in many dif
 
 ## Connecting the Limit Switch to the Input
 
-![](img/downloaded/7eb81ff4b17e61830651de72057a2a24.jpg)
+![Connecting the Limit Switch to the Input illustration](img/downloaded/7eb81ff4b17e61830651de72057a2a24.jpg)
 
 M5 Stack:
 
@@ -414,7 +414,7 @@ Voltage from the Sensor:
 
 Voltage Divider:
 
-![](img/downloaded/0d83a342840480433b9f4a2fb0bf3b84.png)
+![Connecting the Limit Switch to the Input illustration](img/downloaded/0d83a342840480433b9f4a2fb0bf3b84.png)
 
 [https://www.digikey.de/de/resources/conversion-calculators/conversion-calculator-voltage-divider](https://www.digikey.de/de/resources/conversion-calculators/conversion-calculator-voltage-divider)
 
@@ -429,7 +429,7 @@ Because:
 [https://www.electronicsplanet.ch/Widerstand/Widerstandsreihe-E24.htm](https://www.electronicsplanet.ch/Widerstand/Widerstandsreihe-E24.htm)
 
 ]
-![](img/downloaded/8207582c19a6382581d24d138f69d1f0.png)
+![Connecting the Limit Switch to the Input illustration](img/downloaded/8207582c19a6382581d24d138f69d1f0.png)
 
 ## Grove System
 
@@ -723,39 +723,39 @@ Like this:
 
 [https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/api-guides/jtag-debugging/index.html](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/api-guides/jtag-debugging/index.html)
 openocd --version
-![](img/downloaded/5985c8b8aa5c0dce494927c929c1e3af.png)
+![JTAG-S3-USB {#jtag-s3-usb} illustration](img/downloaded/5985c8b8aa5c0dce494927c929c1e3af.png)
 openocd -f board/esp32s3-builtin.cfg --> appears correct
 openocd -f board/esp32s3-bridge.cfg --> appears incorrect
 
-![](img/downloaded/be365b4d8003a0bbab7120799de897af.png)
+![JTAG-S3-USB {#jtag-s3-usb} illustration](img/downloaded/be365b4d8003a0bbab7120799de897af.png)
 
-![](img/downloaded/73289a4667d04df48fa27c224352c0ac.png)
+![JTAG-S3-USB {#jtag-s3-usb} illustration](img/downloaded/73289a4667d04df48fa27c224352c0ac.png)
 
-![](img/downloaded/ad77ce3d70d1fe7021106f10c84651c6.png)
+![JTAG-S3-USB {#jtag-s3-usb} illustration](img/downloaded/ad77ce3d70d1fe7021106f10c84651c6.png)
 
-![](img/downloaded/833cb97bdeef41ad1191ae7eb141baae.png)
+![JTAG-S3-USB {#jtag-s3-usb} illustration](img/downloaded/833cb97bdeef41ad1191ae7eb141baae.png)
 
-![](img/downloaded/5637ec81ff9bfd54e10826bd7cf60275.png)
+![JTAG-S3-USB {#jtag-s3-usb} illustration](img/downloaded/5637ec81ff9bfd54e10826bd7cf60275.png)
 
-![](img/downloaded/38f937c8dcdad69ebb63b8419ce833eb.png)
+![JTAG-S3-USB {#jtag-s3-usb} illustration](img/downloaded/38f937c8dcdad69ebb63b8419ce833eb.png)
 
-![](img/downloaded/d3e49ee6841ddd9bc08cd1a341e5aaff.png)
+![JTAG-S3-USB {#jtag-s3-usb} illustration](img/downloaded/d3e49ee6841ddd9bc08cd1a341e5aaff.png)
 
 Then it won't work; the following setting must be changed. will be:
 
-![](img/downloaded/3a98fda9c97e281cf7466acf2828efdf.png)
+![JTAG-S3-USB {#jtag-s3-usb} illustration](img/downloaded/3a98fda9c97e281cf7466acf2828efdf.png)
 
 ESP32-S3 chip (via ESP USB Bridge)
 
-![](img/downloaded/50685cb0331952d000b7eb36a938ae5a.png)
+![JTAG-S3-USB {#jtag-s3-usb} illustration](img/downloaded/50685cb0331952d000b7eb36a938ae5a.png)
 
 and then change "bridge" to "builtin":
 
-![](img/downloaded/3a4fc3675e5df449e8a9659483e7f49b.png)
+![JTAG-S3-USB {#jtag-s3-usb} illustration](img/downloaded/3a4fc3675e5df449e8a9659483e7f49b.png)
 
 works:
 
-![](img/downloaded/d27fbf2a61bdd627278442b6e71917ce.png)
+![JTAG-S3-USB {#jtag-s3-usb} illustration](img/downloaded/d27fbf2a61bdd627278442b6e71917ce.png)
 
 Here too, the console can run in parallel with debugging,
 
@@ -763,7 +763,7 @@ via a USB cable,
 
 cool:
 
-![](img/downloaded/3a2c5a17727d9fee340bd97dcdced5e5.png)
+![JTAG-S3-USB {#jtag-s3-usb} illustration](img/downloaded/3a2c5a17727d9fee340bd97dcdced5e5.png)
 
 ---
 
@@ -788,9 +788,9 @@ Now we'll set up JTAG.
 
 #### Before
 
-![](img/downloaded/b7b18cd2f2309ca88b9ed713fbbd2136.png)
+![Before illustration](img/downloaded/b7b18cd2f2309ca88b9ed713fbbd2136.png)
 
-![](img/downloaded/2c151f2a48d0b41bb45a20a0aff5c2e4.png)
+![Before illustration](img/downloaded/2c151f2a48d0b41bb45a20a0aff5c2e4.png)
 
 #### Calling ZADIG
 
@@ -800,7 +800,7 @@ See also: [https://docs.espressif.com/projects/esp-idf/en/v4.4.3/esp32/api-guide
 
 #### After
 
-![](img/downloaded/9af9ae83c8af41ef9ff5701d6c4f57d6.png)
+![After illustration](img/downloaded/9af9ae83c8af41ef9ff5701d6c4f57d6.png)
 
 Note: This process must be repeated if you connect the ESP-PROG to a different interface.
 
@@ -820,13 +820,13 @@ See also:
 
 These pins are required at a minimum:
 
-![](img/downloaded/f77be5287e50e8197e203574e1ef9361.png)
+![After illustration](img/downloaded/f77be5287e50e8197e203574e1ef9361.png)
 
 ![Schritt_01c](img/downloaded/88dbb4ef875b847abcad3fdd8c6a6165.jpg)
 
-![](img/downloaded/711b85020bfcb34413547c43f7223996.png)
+![After illustration](img/downloaded/711b85020bfcb34413547c43f7223996.png)
 
-![](img/downloaded/5439704dae0a0e66f41a0078022f939e.png)
+![After illustration](img/downloaded/5439704dae0a0e66f41a0078022f939e.png)
 
 https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/jtag-debugging/configure-other-jtag.html
 
@@ -842,7 +842,7 @@ https://docs.espressif.com/projects/esp-idf/en/v4.4.3/esp32/api-guides/jtag-debu
 
 openocd -f board/esp32-wrover-kit-3.3v.cfg
 
-![](img/downloaded/fb393d8fe1b1685b7287b20a5e7e8879.png)
+![JTAG Step 3 illustration](img/downloaded/fb393d8fe1b1685b7287b20a5e7e8879.png)
 
 ATTENTION!!! Starting the GDB server from the command line is only necessary if you are also debugging from the command line.
 
@@ -862,7 +862,7 @@ I was able to debug immediately as follows:
 
 1. Select only ESP-IDF GDB..., then click on the
 
-![](img/downloaded/3afab953625235b5da0a94bd6f77667e.png)
+![JTAG Step\_04 illustration](img/downloaded/3afab953625235b5da0a94bd6f77667e.png)
 
 icon in the upper left,
 
@@ -870,7 +870,7 @@ and start it.
 
 No settings need to be changed.
 
-![](img/downloaded/c6a306c30ef7b81be08161d103bd75fe.png)
+![JTAG Step\_04 illustration](img/downloaded/c6a306c30ef7b81be08161d103bd75fe.png)
 
 ## JTAG Step\_05
 
@@ -882,7 +882,7 @@ Not applicable
 
 ## JTAG Step\_07
 
-![](img/downloaded/cebcb79a8c896bb221c6621bd3b9ad79.png)
+![JTAG Step\_07 illustration](img/downloaded/cebcb79a8c896bb221c6621bd3b9ad79.png)
 
 And yes, you can run the console alongside the debugging session,
 
@@ -1062,7 +1062,7 @@ To perform the self-test, the ATOM's button must be pressed.
 
 <https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/linux-setup.html>
 sudo apt install git wget flex bison gperf python3 python3-pip python3-setuptools cmake ninja-build ccache libffi-dev libssl-dev dfu-util libusb-1.0-0
-![](img/downloaded/06093f7717367bb4fbe4a154e37b4ee3.png)
+![Setting up (LINUX) {#setting-up-linux} illustration](img/downloaded/06093f7717367bb4fbe4a154e37b4ee3.png)
 
 Confirm with Yes.
 
@@ -1095,43 +1095,43 @@ Size: 1GB
 
 espressif-ide-setup-espressif-ide-2.4.1-with-esp-idf-4.4.exe
 
-![](img/downloaded/a285c29cc14323bd3446f19ef501e4e3.png)
+![Setting-up-II {#setting-up-ii} illustration](img/downloaded/a285c29cc14323bd3446f19ef501e4e3.png)
 
-![](img/downloaded/eadd0bf530b74b1732e99bc9eaf14437.png)
+![Setting-up-II {#setting-up-ii} illustration](img/downloaded/eadd0bf530b74b1732e99bc9eaf14437.png)
 
 accept:
 
-![](img/downloaded/4908a5d67afb5179309b356ebb709c2b.png)
+![Setting-up-II {#setting-up-ii} illustration](img/downloaded/4908a5d67afb5179309b356ebb709c2b.png)
 
-![](img/downloaded/ec56216518eb4f5d5753f5da4a73cb43.png)
+![Setting-up-II {#setting-up-ii} illustration](img/downloaded/ec56216518eb4f5d5753f5da4a73cb43.png)
 
 Apply Fixes
 
-![](img/downloaded/92d847aa88d0e4c61fdf59120693d46c.png)
+![Setting-up-II {#setting-up-ii} illustration](img/downloaded/92d847aa88d0e4c61fdf59120693d46c.png)
 
-![](img/downloaded/8b6b141d8705d3a73f47f4cf93fe1103.png)
+![Setting-up-II {#setting-up-ii} illustration](img/downloaded/8b6b141d8705d3a73f47f4cf93fe1103.png)
 
-![](img/downloaded/9df07e2c3f3a773e962741dd132bbcee.png)
+![Setting-up-II {#setting-up-ii} illustration](img/downloaded/9df07e2c3f3a773e962741dd132bbcee.png)
 
-![](img/downloaded/551eceb099f3cc69c647e8ce3b357ca8.png)
+![Setting-up-II {#setting-up-ii} illustration](img/downloaded/551eceb099f3cc69c647e8ce3b357ca8.png)
 
-![](img/downloaded/8aea158fb11eb6f1474085091e76c744.png)
+![Setting-up-II {#setting-up-ii} illustration](img/downloaded/8aea158fb11eb6f1474085091e76c744.png)
 
-![](img/downloaded/b96a2fd24c25cf8263633eb667f782e4.png)
+![Setting-up-II {#setting-up-ii} illustration](img/downloaded/b96a2fd24c25cf8263633eb667f782e4.png)
 
-![](img/downloaded/c8e50a114add5839bbc30af696278057.png)
+![Setting-up-II {#setting-up-ii} illustration](img/downloaded/c8e50a114add5839bbc30af696278057.png)
 
-![](img/downloaded/e8b52d88c03c3eb7cbcdbe65a110cae1.png)
+![Setting-up-II {#setting-up-ii} illustration](img/downloaded/e8b52d88c03c3eb7cbcdbe65a110cae1.png)
 
-![](img/downloaded/7e26f6a835517fcc03b007ed3c7500a7.png)
+![Setting-up-II {#setting-up-ii} illustration](img/downloaded/7e26f6a835517fcc03b007ed3c7500a7.png)
 
 Path:
 
-![](img/downloaded/5d337b014db9f14856bb95cbdf6312e3.png)
+![Setting-up-II {#setting-up-ii} illustration](img/downloaded/5d337b014db9f14856bb95cbdf6312e3.png)
 
 OR:
 
-![](img/downloaded/2e1c751c1e3e44b40e0ff03cbe98b701.png)
+![Setting-up-II {#setting-up-ii} illustration](img/downloaded/2e1c751c1e3e44b40e0ff03cbe98b701.png)
 <!-- PAGE_END: Setting-up-II.md -->
 
 
@@ -1155,19 +1155,19 @@ https://dl.espressif.com/dl/esp-idf-tools-setup-offline-2.10.exe
 
 ## Step 2
 
-![](img/downloaded/ffa91a7f47b42d8f9fd98547d727a6f2.png)
+![Step 2 illustration](img/downloaded/ffa91a7f47b42d8f9fd98547d727a6f2.png)
 
 ## Step 3
 
-![](img/downloaded/72e5f8c3e5be7349ec4a54d30e89fe72.png)
+![Step 3 illustration](img/downloaded/72e5f8c3e5be7349ec4a54d30e89fe72.png)
 
 If it looks like this, that's great.
 
 If not:
 
-![](img/downloaded/3a3ee57511534268eed09c5c0bbdfbf4.png)
+![Step 3 illustration](img/downloaded/3a3ee57511534268eed09c5c0bbdfbf4.png)
 
-![](img/downloaded/c1a313269e0464f0d0ab2dd4fac11752.png)
+![Step 3 illustration](img/downloaded/c1a313269e0464f0d0ab2dd4fac11752.png)
 
 Please click "Apply Fixes"
 
@@ -1179,7 +1179,7 @@ Select 4.3
 
 The installer will suggest "desktop" here, but I don't like that!
 
-![](img/downloaded/745096a4b96bf61b3b3d6dc951f71b1e.png)
+![Step 4 illustration](img/downloaded/745096a4b96bf61b3b3d6dc951f71b1e.png)
 
 ## Step 5
 
@@ -1187,31 +1187,31 @@ C:\\Users\\hoepffr\\.espressif
 
 This folder must also not contain any umlauts or spaces.
 
-![](img/downloaded/15bd80e45ddb8df5bf5a7270ecc5dd6f.png)
+![Step 5 illustration](img/downloaded/15bd80e45ddb8df5bf5a7270ecc5dd6f.png)
 
 ## Step 6
 
-![](img/downloaded/4a8ca26d2185fdf4060ea2766a86f8a4.png)
+![Step 6 illustration](img/downloaded/4a8ca26d2185fdf4060ea2766a86f8a4.png)
 
 ## Step 7
 
-![](img/downloaded/a70c980b7265f0a5e0a85ca4b838ffbc.png)
+![Step 7 illustration](img/downloaded/a70c980b7265f0a5e0a85ca4b838ffbc.png)
 
 ## Step 8
 
-![](img/downloaded/8b2bdbc424265f6b9baac95e2c177fba.png)
+![Step 8 illustration](img/downloaded/8b2bdbc424265f6b9baac95e2c177fba.png)
 
 ## Step 9
 
-![](img/downloaded/1a97442537b38c3853af537241a70186.png)
+![Step 9 illustration](img/downloaded/1a97442537b38c3853af537241a70186.png)
 
 ## Step 10
 
-![](img/downloaded/0281cd5b11caa199cd6decc6c202778a.png)
+![Step 10 illustration](img/downloaded/0281cd5b11caa199cd6decc6c202778a.png)
 
-![](img/downloaded/7c18966ef47f75b64ec34671e224d681.png)
+![Step 10 illustration](img/downloaded/7c18966ef47f75b64ec34671e224d681.png)
 
-![](img/downloaded/4b91552ed01e9deab5f95db6de1cfded.png)
+![Step 10 illustration](img/downloaded/4b91552ed01e9deab5f95db6de1cfded.png)
 
 >
 ## Step 11: (Information only)
@@ -1237,15 +1237,15 @@ This folder must also not contain any umlauts or spaces.
 > So, you could already work from the command line here.
 
 >
-> ![](img/downloaded/546c2462b3ac0ded63c11fcafadd7836.png)
+> ![Step 11: (Information only) illustration](img/downloaded/546c2462b3ac0ded63c11fcafadd7836.png)
 
 ## Step 12
 
 Now open Eclipse and create a new workspace.
 
-![](img/downloaded/87a9b2b592a458a6e4140b446357dc13.png)
+![Step 12 illustration](img/downloaded/87a9b2b592a458a6e4140b446357dc13.png)
 
-![](img/downloaded/a1818a09edd457c7ea6ee1310c6d1652.png)
+![Step 12 illustration](img/downloaded/a1818a09edd457c7ea6ee1310c6d1652.png)
 
 Done.
 
