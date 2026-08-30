@@ -32,6 +32,7 @@ Das Hardware-Design wird in Autodesk Fusion 360 gepflegt. Hier können Sie die a
 - 📦 **[Gesamtzusammenbau (Assembly) in Fusion 360 ansehen](https://a360.co/4cJ5Ajy)**
 
 ### Repository
+
 Der Quellcode und die Hardware-Dateien liegen im GitHub-Repository:
 [📂 GitHub: Hutschienenmoped-XL](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS_Hardware/tree/master/Hutschienenmoped-XL)
 
@@ -61,5 +62,6 @@ Hier einige Einblicke in die Hardware:
 ---
 
 ### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+
 - [🌐 ESP32 & ESP32-S3 DevKit auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/)
 - [🌐 Leiterplatten-Entwurf & Bestückung auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)

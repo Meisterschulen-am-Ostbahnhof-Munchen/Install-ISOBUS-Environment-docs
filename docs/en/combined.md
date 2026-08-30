@@ -3,6 +3,7 @@
 
 <!-- PAGE_START: index.md -->
 ---
+
 myst:
 enable_extensions: ["colon_fence"]
 html_meta:
@@ -58,6 +59,7 @@ This project is under active development.
 
 <!-- PAGE_START: Atom-Erweiterungen.md -->
 # Atom Extensions {#atom-erweiterungen}
+
 Basically, all extensions from M5 Stack work on the GROVE port:
 <https://shop.m5stack.com/collections/m5-sensor>
 and all extensions that offer the GROVE port:
@@ -92,17 +94,22 @@ also Soil Moisture: <https://wiki.seeedstudio.com/Grove-Capacitive_Moisture_Sens
 
 <!-- PAGE_START: Eagle.md -->
 # Eagle {#eagle}
+
 ## 🎧 Podcast
+
 - [From a Bavarian village to the Autodesk Cloud: The fascinating metamorphosis of the software legend EAGLE CAD ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Vom-bayerischen-Dorf-in-die-Autodesk-Cloud-Die-faszinierende-Metamorphose-der-Software-Legende-EAGLE-CAD-e3a5ard)
+
 ## 📺 Video
+
 - [EAGLE CAD: A Legend ](https://www.youtube.com/watch?v=ly1zAMmhnJ4)
-## End of life:
+
+## End of life
 
 On June 7, 2026, EAGLE will no longer be available.
 
 [https://www.autodesk.com/products/fusion-360/blog/future-of-autodesk-eagle-fusion-360-electronics/](https://www.autodesk.com/products/fusion-360/blog/future-of-autodesk-eagle-fusion-360-electronics/)
 
-## Installer:
+## Installer
 
 Autodesk_EAGLE_9.6.2_English_Win_64bit.exe
 
@@ -118,7 +125,7 @@ Eagle opens briefly and then immediately closes.
 
 The solution is to download and replace two files, "libeay32.dll" and "ssleay32.dll", from the package
 
-(https://www.totalcommander.ch/win/tools/openssl-1.0.2u-x64_86-win64.zip)[https://www.totalcommander.ch/win/tools/openssl-1.0.2u-x64_86-win64.zip])
+[https://www.totalcommander.ch/win/tools/openssl-1.0.2u-x64_86-win64.zip](https://www.totalcommander.ch/win/tools/openssl-1.0.2u-x64_86-win64.zip))
 
 Eagle will then run normally.
 
@@ -128,6 +135,7 @@ After that, Eagle will run as usual.
 
 <!-- PAGE_START: Gitkraken.md -->
 # 📦 Installing and using Gitkraken: {#gitkraken}
+
 Before you begin, please read the section on GitHub.
 
 
@@ -262,7 +270,9 @@ You can close it.
 
 <!-- PAGE_START: Hardware.md -->
 # 🔌 Hardware {#hardware}
+
 ## 🎧 Podcast
+
 - [Automation 4.0: Why Software Is Overtaking Hardware and What That Means for Your Skills]
 - [PLC: The Invisible Brain of Industry – From Robust Hardware to IT/OT Convergence]
 - [Universal Automation: How to Decouple Software and Hardware for the Future of Industry]
@@ -271,16 +281,22 @@ You can close it.
 
 <!-- PAGE_START: Home.md -->
 # Homepage {#home}
+
 ## 🎧 Podcast
+
 - [logiBUS®: Revolutionizing Agricultural IT – How ISOBUS Becomes a Smart Home for Farmers
 <!-- PAGE_END: Home.md -->
 
 
 <!-- PAGE_START: HutschienenMoped-Eingaenge.md -->
 # DIN Rail Moped Inputs {#hutschienenmoped-eingaenge}
-## Differentiation of Limit Switches for Pneumatic Cylinders:
+
+## Differentiation of Limit Switches for Pneumatic Cylinders
+
 [https://www.ifm.com/at/de/shared/produkte/zylindersensoren/technologie](https://www.ifm.com/at/de/shared/produkte/zylindersensoren/technologie)
+
 ### Reed Switch
+
 A reed switch is an electrical switching element consisting of two ferromagnetic contacts inside a hermetically sealed glass tube. These contacts are held apart by a thin, flexible glass rod coated with a special metal alloy.
 The main characteristics of a reed switch are:
 
@@ -436,6 +452,7 @@ Multiplexers
 ---
 
 ### 🌐 Related Topic Subpages on ms-muc-docs.de
+
 - [🌐 Total Resistance in Series & Parallel Circuits on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/gesamtwiderstand-reihen-parallelschaltung/)
 - [🌐 Loaded & Unloaded Voltage Dividers on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/spannungsteiler/)
 - [🌐 Bipolar transistor fundamentals at ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/bipolartransistor/bipolarer-transistor/)
@@ -445,6 +462,7 @@ Multiplexers
 
 <!-- PAGE_START: HutschienenMoped-Erweiterungen.md -->
 # DIN Rail Moped Extensions {#hutschienenmoped-erweiterungen}
+
 See also:
 <https://install-isobus-environment-docs.readthedocs.io/de/latest/Atom-Erweiterungen.html>
 ![Image](img/downloaded/cb9d59ab1ae9c6a85b9bd39cf8506bae.jpg)
@@ -465,8 +483,11 @@ See also:
 
 <!-- PAGE_START: HutschienenMoped-Stecker.md -->
 # DIN Rail Moped Connectors {#hutschienenmoped-stecker}
+
 This photo series documents the correct wiring and connector types used for the "DIN Rail Moped" module.
+
 ## 1. Basic Wiring and Connections
+
 The module's basic wiring on the DIN rail is done via red and black wires (power supply and ground), which are connected to the circuit board's pin headers using spade connectors.
 
 - **Connector Type:** 6.3 mm spade connectors are used as standard.
@@ -511,9 +532,13 @@ The fully wired module in active operation: The green LEDs inside the housing ar
 
 <!-- PAGE_START: HutschienenMoped.md -->
 # DINRailMoped {#hutschienenmoped}
+
 ## 🎧 Podcast
+
 - [DINRailMoped XL: ISOBUS ECU Development](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Hutschienenmoped-XL-ISOBUS-ECU-Entwicklung-e368hdg)]
+
 ## 📂 Repository & Resources
+
 The source code and hardware files are located in the GitHub repository:
 [📂 GitHub: DINRailMoped](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS_Hardware/tree/master/Hutschienenmoped)]
 
@@ -527,6 +552,7 @@ The DIN rail moped features fused outputs and flexible connection options.
 - **Power Supply:** The power supply requires an external fuse for line protection.
 
 ### Pin Assignment
+
 ![Übersicht Pinbelegung](img/downloaded/be6671c80ae6d29b773b74f7b034df89.jpg)
 
 ---
@@ -536,6 +562,7 @@ The DIN rail moped features fused outputs and flexible connection options.
 The device can be operated in different ways depending on the application.
 
 ### Operation with a 4-pin cable
+
 For operation with a 4-pin cable, **two jumpers** must be installed.
 
 | View | Description |
@@ -566,14 +593,18 @@ The housing is designed for various mounting scenarios.
 --
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
+
 - [🌐 PCB design & assembly on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)
 <!-- PAGE_END: HutschienenMoped.md -->
 
 
 <!-- PAGE_START: HutschienenMopedXL.md -->
 # DIN Rail Moped XL {#hutschienenmopedxl}
+
 The **DIN Rail Moped XL** is the enhanced version of our open-source ECU. It was specifically developed for integration into ISOBUS systems and is ideally suited for demanding control tasks in agricultural machinery.
+
 ## 🌟 Highlights
+
 - **ISOBUS Compatible:** Full support for **ISO 11783**.
 - **IEC 61499:** Prepared for distributed control systems.
 - **Open Source:** The hardware is fully disclosed and certified.
@@ -600,6 +631,7 @@ Hardware design is maintained in Autodesk Fusion 360. Here you can view the curr
 - 📦 **[View complete assembly in Fusion 360 ](https://a360.co/4cJ5Ajy)**
 
 ### Repository
+
 The source code and hardware files are located in the GitHub repository:
 
 [📂 GitHub: DINschienenmoped-XL ](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS_Hardware/tree/master/Hutschienenmoped-XL)
@@ -619,6 +651,7 @@ Here are some insights into the hardware:
 ---
 
 ## ℹ️ Technical Details
+
 - **Controller:** ESP32 (M5Stack Atom / Atom Lite compatible)
 - **Power Supply:** 12V (vehicle electrical system)
 - **Interfaces:**
@@ -629,6 +662,7 @@ Here are some insights into the hardware:
 ---
 
 ### 🌐 Related topics on ms-muc-docs.de
+
 - [🌐 ESP32 & ESP32-S3 DevKit on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/)
 - [🌐 PCB Design & Assembly on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)
 
@@ -637,6 +671,7 @@ Here are some insights into the hardware:
 
 <!-- PAGE_START: ISOBUS-Kabel-klein.md -->
 # ISOBUS cable, small {#isobus-kabel-klein}
+
 ![Image](img/downloaded/48ce30e79dc0f27d12a168464ff58f39.jpg)
 ![Image](img/downloaded/b6d0ab46ccc14f346b3f7ebe1aacc5fc.jpg)
 ![Image](img/downloaded/0381f25f8e1167a8779698f82c7c8f25.jpg)
@@ -652,6 +687,7 @@ Here are some insights into the hardware:
 
 <!-- PAGE_START: IsoAgLib-ISOMAN.md -->
 # IsoAgLib-ISOMAN {#isoaglib-isoman}
+
 For this experiment, the atom must be mounted on the socket. Secure it carefully with the screw.
 ... (This is plastic, so 500 Nm of torque isn't needed >\`\_
 Open the workspace C:\\git\\IsoAgLib-ISOMAN\\eclipse-workspace
@@ -684,6 +720,7 @@ Like this:
 
 <!-- PAGE_START: JTAG-S3-USB.md -->
 # JTAG-S3-USB {#jtag-s3-usb}
+
 [https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/api-guides/jtag-debugging/index.html](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/api-guides/jtag-debugging/index.html)
 openocd --version
 ![](img/downloaded/5985c8b8aa5c0dce494927c929c1e3af.png)
@@ -731,6 +768,7 @@ cool:
 ---
 
 ### 🌐 Relevant topic subpages on ms-muc-docs.de
+
 - [🌐 ESP32 & ESP32-S3 DevKit on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/)
 
 <!-- PAGE_END: JTAG-S3-USB.md -->
@@ -738,27 +776,29 @@ cool:
 
 <!-- PAGE_START: JTAG.md -->
 # JTAG {#jtag}
-## JTAG Step 01:
+
+## JTAG Step 01
+
 Now we'll set up JTAG.
 [https://docs.espressif.com/projects/esp-idf/en/v4.4.3/esp32/api-guides/jtag-debugging/configure-ft2232h-jtag.html](https://docs.espressif.com/projects/esp-idf/en/v4.4.3/esp32/api-guides/jtag-debugging/configure-ft2232h-jtag.html)
 [https://docs.espressif.com/projects/espressif-esp-iot-solution/en/latest/hw-reference/ESP-Prog_guide.html](https://docs.espressif.com/projects/espressif-esp-iot-solution/en/latest/hw-reference/ESP-Prog_guide.html)
 [https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-guides/jtag-debugging/index.html](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-guides/jtag-debugging/index.html)
 
-### Switching the USB interface with ZADIG:
+### Switching the USB interface with ZADIG
 
-#### Before:
+#### Before
 
 ![](img/downloaded/b7b18cd2f2309ca88b9ed713fbbd2136.png)
 
 ![](img/downloaded/2c151f2a48d0b41bb45a20a0aff5c2e4.png)
 
-#### Calling ZADIG:
+#### Calling ZADIG
 
 See also: [https://docs.espressif.com/projects/esp-idf/en/v4.4.3/esp32/api-guides/jtag-debugging/configure-ft2232h-jtag.html#windows](https://docs.espressif.com/projects/esp-idf/en/v4.4.3/esp32/api-guides/jtag-debugging/configure-ft2232h-jtag.html#windows)
 
 ![Schritt_01](img/downloaded/8172415389be997dc275672ec6b94ada.png)
 
-#### After:
+#### After
 
 ![](img/downloaded/9af9ae83c8af41ef9ff5701d6c4f57d6.png)
 
@@ -790,13 +830,13 @@ These pins are required at a minimum:
 
 https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/jtag-debugging/configure-other-jtag.html
 
-## JTAG Step 2:
+## JTAG Step 2
 
 openocd --version
 
 ![Schritt_02](img/downloaded/c83eaf3f734b4b6efbbf890a8bbb661d.png)
 
-## JTAG Step 3:
+## JTAG Step 3
 
 https://docs.espressif.com/projects/esp-idf/en/v4.4.3/esp32/api-guides/jtag-debugging/index.html#run-openocd
 
@@ -808,7 +848,7 @@ ATTENTION!!! Starting the GDB server from the command line is only necessary if 
 
 --> OpenOCD is started automatically from within the ESP-IDF.
 
-## JTAG Step\_04:
+## JTAG Step\_04
 
 At this point, the documentation is hopelessly outdated.
 
@@ -832,15 +872,15 @@ No settings need to be changed.
 
 ![](img/downloaded/c6a306c30ef7b81be08161d103bd75fe.png)
 
-## JTAG Step\_05:
+## JTAG Step\_05
 
 Not applicable
 
-## JTAG Step\_06:
+## JTAG Step\_06
 
 Not applicable
 
-## JTAG Step\_07:
+## JTAG Step\_07
 
 ![](img/downloaded/cebcb79a8c896bb221c6621bd3b9ad79.png)
 
@@ -852,6 +892,7 @@ but the console must be open before the debugging session starts.
 
 <!-- PAGE_START: Joystick.md -->
 # Joystick {#joystick}
+
 Now try controlling the ISOBUS machine you just created using the AUX joystick.
 Try this with both the tractor monitor and the auxiliary screen.
 Note your findings; we will discuss them later in class.
@@ -860,6 +901,7 @@ Note your findings; we will discuss them later in class.
 
 <!-- PAGE_START: Kalkulation-Hardware.md -->
 # Hardware Cost Calculation {#kalkulation-hardware}
+
 Our ECU is based on the ATOM from M5 Stack.
 Schematic:
 [https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS_Hardware](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS_Hardware)]
@@ -894,12 +936,13 @@ Here is the cost calculation:
 --
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
+
 - [🌐 ESP32 & ESP32-S3 DevKit on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/)
 <!-- PAGE_END: Kalkulation-Hardware.md -->
 
 
 <!-- PAGE_START: Lego.md -->
-#Lego
+# Lego
 \<<https://www.1000steine.de/de/gemeinschaft/forum/?entry=1&id=442294>
 [\<https://youtu.be/z4hOIl2aygs](https://youtu.be/z4hOIl2aygs)
 ![Image](img/downloaded/5ab41ca5285e5c51f432fce0a0056893.jpg)
@@ -952,7 +995,9 @@ qzms docs000013qz
 ![Image](img/downloaded/df34457045d1e109668c3bf11a2e3ea2.png)
 
 ![Image](img/downloaded/30631ac47adfb1b44ce5bfe2d868cdee.png)
+
 ## 🎧 Podcast {#lego}
+
 - [Eclipse 4diac FORTE: Understanding IEC 61499 – The LEGO® Building Blocks for Your Industry 4.0 Control System ](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Eclipse-4diac-FORTE-IEC-61499-verstehen--Der-LEGO-Baukasten-fr-Ihre-Industrie-4-0-Steuerung-e3682kc)
 - [DIN EN 61499-1: The Digital LEGO Building Blocks for Flexible Automation and a Smart Future ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61499-1-Der-digitale-Lego-Baukasten-fr-flexible-Automatisierung-und-smarte-Zukunft-e3681pb)
 - [DIN EN 61499-1: The LEGO Bricks for Flexible and Event-Driven Industrial Control Systems ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61499-1-Die-Lego-Steine-fr-flexible-und-ereignisgesteuerte-Industriesteuerungen-e3681o1)
@@ -962,6 +1007,7 @@ qzms docs000013qz
 ---
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
+
 - [🌐 Eclipse 4diac IDE & Color Reference on ms-muc-docs.de](https://www.ms-muc-docs.de/iec-61499/eclipse-4diac/)
 <!-- PAGE_END: Lego.md -->
 
@@ -973,10 +1019,15 @@ qzms docs000013qz
 
 <!-- PAGE_START: Paket.md -->
 # Package {#paket}
+
 ![Image](img/downloaded/208c1308e554ad2dea079d2857cd8726.jpg)
+
 ## 🎧 Podcast
+
 - [Powerhouses in Action: The Secret of Hydraulic Cylinders – From Excavators to High-Tech Machines ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Kraftpakete-im-Einsatz-Das-Geheimnis-der-Hydraulikzylinder--Von-Baggern-bis-Hightech-Maschinen-e373ne8)
+
 ## 📺 Video
+
 - [Chip Becomes a Powerhouse ](https://www.youtube.com/watch?v=IudBn-pRUkU)
 
 ]
@@ -985,6 +1036,7 @@ qzms docs000013qz
 
 <!-- PAGE_START: Selbsttest.md -->
 # Self-Test {#selbsttest}
+
 Open the file
 M:\\Agricultural Machinery Mechanics\\Lessons\\SL\\esp-idf\\AtomSelfTest\\EasyLoader_ATOM \_LITE_FactoryTest.exe
 ![Image](img/downloaded/1aa892fa2b1c955e114a95427a85de6c.png)
@@ -1007,6 +1059,7 @@ To perform the self-test, the ATOM's button must be pressed.
 
 <!-- PAGE_START: Setting-up-(LINUX).md -->
 # Setting up (LINUX) {#setting-up-linux}
+
 <https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/linux-setup.html>
 sudo apt install git wget flex bison gperf python3 python3-pip python3-setuptools cmake ninja-build ccache libffi-dev libssl-dev dfu-util libusb-1.0-0
 ![](img/downloaded/06093f7717367bb4fbe4a154e37b4ee3.png)
@@ -1032,6 +1085,7 @@ Done.
 
 <!-- PAGE_START: Setting-up-II.md -->
 # Setting-up-II {#setting-up-ii}
+
 This setup will be available from around January 2022.
 \<<https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/index.html>
 \<<https://dl.espressif.com/dl/esp-idf/?idf=4.4>
@@ -1083,7 +1137,9 @@ OR:
 
 <!-- PAGE_START: Setting-up.md -->
 # Installation Setup {#setting-up}
-## Step 1:
+
+## Step 1
+
 Background information can be found here:
 https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/
 Please check beforehand that your username under C:\Users is without umlauts and spaces.
@@ -1097,11 +1153,11 @@ https://dl.espressif.com/dl/esp-idf-tools-setup-online-2.9.exe
 
 https://dl.espressif.com/dl/esp-idf-tools-setup-offline-2.10.exe
 
-## Step 2:
+## Step 2
 
 ![](img/downloaded/ffa91a7f47b42d8f9fd98547d727a6f2.png)
 
-## Step 3:
+## Step 3
 
 ![](img/downloaded/72e5f8c3e5be7349ec4a54d30e89fe72.png)
 
@@ -1117,7 +1173,7 @@ Please click "Apply Fixes"
 
 and then yes.
 
-## Step 4:
+## Step 4
 
 Select 4.3
 
@@ -1125,7 +1181,7 @@ The installer will suggest "desktop" here, but I don't like that!
 
 ![](img/downloaded/745096a4b96bf61b3b3d6dc951f71b1e.png)
 
-## Step 5:
+## Step 5
 
 C:\\Users\\hoepffr\\.espressif
 
@@ -1133,23 +1189,23 @@ This folder must also not contain any umlauts or spaces.
 
 ![](img/downloaded/15bd80e45ddb8df5bf5a7270ecc5dd6f.png)
 
-## Step 6:
+## Step 6
 
 ![](img/downloaded/4a8ca26d2185fdf4060ea2766a86f8a4.png)
 
-## Step 7:
+## Step 7
 
 ![](img/downloaded/a70c980b7265f0a5e0a85ca4b838ffbc.png)
 
-## Step 8:
+## Step 8
 
 ![](img/downloaded/8b2bdbc424265f6b9baac95e2c177fba.png)
 
-## Step 9:
+## Step 9
 
 ![](img/downloaded/1a97442537b38c3853af537241a70186.png)
 
-## Step 10:
+## Step 10
 
 ![](img/downloaded/0281cd5b11caa199cd6decc6c202778a.png)
 
@@ -1183,7 +1239,7 @@ This folder must also not contain any umlauts or spaces.
 >
 > ![](img/downloaded/546c2462b3ac0ded63c11fcafadd7836.png)
 
-## Step 12:
+## Step 12
 
 Now open Eclipse and create a new workspace.
 
@@ -1199,7 +1255,9 @@ You don't need to install Java, Python, or Git beforehand.
 
 <!-- PAGE_START: blink_on_atom.md -->
 # blink_on_atom {#blink-on-atom}
-### Step 14:
+
+### Step 14
+
 Now you can actually start Eclipse:
 For your first project, use this workspace:
 C:\\git\\blink_on_atom\\eclipse-workspace
@@ -1207,17 +1265,17 @@ C:\\git\\blink_on_atom\\eclipse-workspace
 
 ![Image](img/downloaded/1e77e60db3451e8898bb4d6bd7782d96.png)
 
-### Step 15:
+### Step 15
 
 Workbench --> Hide (top right)
 
 ![Image](img/downloaded/1d77999998e93e708de7074d86e24436.png)
 
-### Step 16:
+### Step 16
 
 ![Image](img/downloaded/6e94ba83f4c2fd568786ebaccb284f83.png)
 
-### Step 17:
+### Step 17
 
 Now go to Import Projects
 
@@ -1240,7 +1298,7 @@ see: \<<https://github.com/espressif/idf-eclipse-plugin/blob/master/README.md#in
 
 YES
 
-### Step 18:
+### Step 18
 
 ![Image](img/downloaded/f74e7515ce8c8bb463710d3780d0a11a.png)
 
@@ -1250,7 +1308,7 @@ C:\Users\Teacher\.espressif\tools\idf-git\2.30.1\cmd\git.exe
 
 C:\Users\Teacher\.espressif\python_env\idf4.3_py3.8_env\Scripts\python.exe
 
-### Step 20:
+### Step 20
 
 <<https://github.com/espressif/idf-eclipse-plugin/blob/master/README.md#configuring-launch-target>
 
@@ -1314,6 +1372,7 @@ Make these changes a few more times to familiarize yourself with the program.
 
 <!-- PAGE_START: cci_EasyExample.md -->
 # cci_EasyExample {#cci-easyexample}
+
 You can now do everything:
 Get cci_EasyExample using GitKraken,
 Open the workspace C:\\git\\cci_EasyExample\\eclipse-workspace
@@ -1330,6 +1389,7 @@ The pools for ISO Designer can be found at: C:\\git\\cci_EasyExample\\EasyExampl
 
 <!-- PAGE_START: cci_EasyExample_CAN2IP.md -->
 # cci_EasyExample_CAN2IP {#cci-easyexample-can2ip}
+
 Special circumstances require special measures:
 
 - Execute a PULL command on cci_EasyExample
@@ -1374,6 +1434,7 @@ Advantage: You don't have to build any hardware!
 
 <!-- PAGE_START: das_steht_im_lehrplan.md -->
 # 📋 This is on the curriculum: C programming in ISOBUS {#das-steht-im-lehrplan}
+>
 > 📌 **Source & Legal Basis:**
 > **Source:** *Framework Curriculum for Preparation for the Master Craftsman Examination in Agricultural and Construction Machinery Mechatronics*
 > **Publisher:** German Association of Agricultural and Construction Machinery Technicians V., Alfredstraße 102, 45131 Essen (Status: February 25, 2025)
@@ -1395,9 +1456,11 @@ Advantage: You don't have to build any hardware!
 ## 📚 Curriculum Modules & Focus Areas
 
 ### Part 1 – Learning Unit 1.4: Automated Functions (80 hours)
+
 - **Implementation of ISOBUS Protocols:** Integration of C libraries for CAN communication and IsoAgLib.
 
 ### Part 2 – Learning Unit 1.1: Systems Engineering (120 hours)
+
 - **Software Architecture:** Memory management, bit operations, pointers, and system drivers in C/C++ for microcontrollers.
 
 ---
@@ -1405,6 +1468,7 @@ Advantage: You don't have to build any hardware!
 ---
 
 ### 🌐 Relevant subpages on ms-muc-docs.de
+
 - [🌐 Eclipse 4diac IDE & Color Reference on ms-muc-docs.de](https://www.ms-muc-docs.de/iec-61499/eclipse-4diac/)
 - [🌐 MCU vs. MPU Comparison Guide on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/mpu-vs-mcu/mikroprozessor-mpu-vs-mikrocontroller-mcu/)
 

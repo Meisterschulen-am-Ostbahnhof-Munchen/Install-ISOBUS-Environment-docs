@@ -2,7 +2,7 @@
 
 
 
-## JTAG Schritt\_01:
+## JTAG Schritt\_01
 
 jetzt richten wir JTAG ein.
 
@@ -12,21 +12,21 @@ jetzt richten wir JTAG ein.
 
 [https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-guides/jtag-debugging/index.html](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-guides/jtag-debugging/index.html)
 
-### USB - Schnittstelle mit ZADIG umstellen:
+### USB - Schnittstelle mit ZADIG umstellen
 
-#### vorher:
+#### vorher
 
 ![](https://user-images.githubusercontent.com/69573151/203028255-a0b5e911-0242-4ecf-957d-ef70e81c8e86.png)
 
 ![](https://user-images.githubusercontent.com/69573151/203028864-2b13e1a3-9be6-4c23-bea2-b32463a38cdb.png)
 
-#### Aufruf von ZADIG:
+#### Aufruf von ZADIG
 
 siehe auch: [https://docs.espressif.com/projects/esp-idf/en/v4.4.3/esp32/api-guides/jtag-debugging/configure-ft2232h-jtag.html#windows](https://docs.espressif.com/projects/esp-idf/en/v4.4.3/esp32/api-guides/jtag-debugging/configure-ft2232h-jtag.html#windows)
 
 ![Schritt_01](https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_01.png)
 
-#### nachher:
+#### nachher
 
 ![](https://user-images.githubusercontent.com/69573151/203028640-6106a050-2190-4467-86d0-e956cf905026.png)
 
@@ -50,13 +50,13 @@ Diese Pins werden mindestens gebraucht:
 
 https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/jtag-debugging/configure-other-jtag.html
 
-## JTAG Schritt\_02:
+## JTAG Schritt\_02
 
 openocd --version
 
 ![Schritt_02](https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_02.png)
 
-## JTAG Schritt\_03:
+## JTAG Schritt\_03
 
 https://docs.espressif.com/projects/esp-idf/en/v4.4.3/esp32/api-guides/jtag-debugging/index.html#run-openocd
 
@@ -68,7 +68,7 @@ ACHTUNG !!! das starten des GDB Servers von der Kommandozeile ist nur noch erfor
 
 \--> aus der ESP-IDF heraus wird openocd automatisch gestartet. 
 
-## JTAG Schritt\_04:
+## JTAG Schritt\_04
 
 an dieser Stelle ist die Doku hoffnungslos veraltet. 
 
@@ -92,15 +92,15 @@ keinerlei Einstellungen zu tätigen. 
 
 ![](https://user-images.githubusercontent.com/69573151/203036844-41313b50-3286-4cd1-bfde-dec157615413.png)
 
-## JTAG Schritt\_05:
+## JTAG Schritt\_05
 
 entfällt
 
-## JTAG Schritt\_06:
+## JTAG Schritt\_06
 
 entfällt
 
-## JTAG Schritt\_07:
+## JTAG Schritt\_07
 
 ![](https://user-images.githubusercontent.com/69573151/203037819-ed99f4f7-3f08-4199-8075-e7261f328ff3.png)
 

@@ -1,25 +1,27 @@
 # JTAG
-## JTAG Step 01:
+
+## JTAG Step 01
+
 Now we'll set up JTAG.
 [https://docs.espressif.com/projects/esp-idf/en/v4.4.3/esp32/api-guides/jtag-debugging/configure-ft2232h-jtag.html](https://docs.espressif.com/projects/esp-idf/en/v4.4.3/esp32/api-guides/jtag-debugging/configure-ft2232h-jtag.html)
 [https://docs.espressif.com/projects/espressif-esp-iot-solution/en/latest/hw-reference/ESP-Prog_guide.html](https://docs.espressif.com/projects/espressif-esp-iot-solution/en/latest/hw-reference/ESP-Prog_guide.html)
 [https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-guides/jtag-debugging/index.html](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-guides/jtag-debugging/index.html)
 
-### Switching the USB interface with ZADIG:
+### Switching the USB interface with ZADIG
 
-#### Before:
+#### Before
 
 ![](https://user-images.githubusercontent.com/69573151/203028255-a0b5e911-0242-4ecf-957d-ef70e81c8e86.png)
 
 ![](https://user-images.githubusercontent.com/69573151/203028864-2b13e1a3-9be6-4c23-bea2-b32463a38cdb.png)
 
-#### Calling ZADIG:
+#### Calling ZADIG
 
 See also: [https://docs.espressif.com/projects/esp-idf/en/v4.4.3/esp32/api-guides/jtag-debugging/configure-ft2232h-jtag.html#windows](https://docs.espressif.com/projects/esp-idf/en/v4.4.3/esp32/api-guides/jtag-debugging/configure-ft2232h-jtag.html#windows)
 
 ![Schritt_01](https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_01.png)
 
-#### After:
+#### After
 
 ![](https://user-images.githubusercontent.com/69573151/203028640-6106a050-2190-4467-86d0-e956cf905026.png)
 
@@ -43,13 +45,13 @@ These pins are required at a minimum:
 
 https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/jtag-debugging/configure-other-jtag.html
 
-## JTAG Step 2:
+## JTAG Step 2
 
 openocd --version
 
 ![Schritt_02](https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/main/images/JTAG/Schritt_02.png)
 
-## JTAG Step 3:
+## JTAG Step 3
 
 https://docs.espressif.com/projects/esp-idf/en/v4.4.3/esp32/api-guides/jtag-debugging/index.html#run-openocd
 
@@ -61,7 +63,7 @@ ATTENTION!!! Starting the GDB server from the command line is only necessary if 
 
 \--> OpenOCD is started automatically from within the ESP-IDF.
 
-## JTAG Step\_04:
+## JTAG Step\_04
 
 At this point, the documentation is hopelessly outdated.
 
@@ -85,15 +87,15 @@ No settings need to be changed.
 
 ![](https://user-images.githubusercontent.com/69573151/203036844-41313b50-3286-4cd1-bfde-dec157615413.png)
 
-## JTAG Step\_05:
+## JTAG Step\_05
 
 Not applicable
 
-## JTAG Step\_06:
+## JTAG Step\_06
 
 Not applicable
 
-## JTAG Step\_07:
+## JTAG Step\_07
 
 ![](https://user-images.githubusercontent.com/69573151/203037819-ed99f4f7-3f08-4199-8075-e7261f328ff3.png)
 

@@ -1,5 +1,7 @@
 # blink_on_atom
-### Step 14:
+
+### Step 14
+
 Now you can actually start Eclipse:
 For your first project, use this workspace:
 C:\\git\\blink_on_atom\\eclipse-workspace
@@ -7,17 +9,17 @@ C:\\git\\blink_on_atom\\eclipse-workspace
 
 <img src="https://user-images.githubusercontent.com/69573151/92934821-3effde00-f448-11ea-9631-7ec96373413a.png" />
 
-### Step 15:
+### Step 15
 
 Workbench --> Hide (top right)
 
 <img src="https://user-images.githubusercontent.com/69573151/124086686-9744b280-da51-11eb-847c-1629d53d2afb.png" />
 
-### Step 16:
+### Step 16
 
 <img src="https://user-images.githubusercontent.com/69573151/124086737-a4fa3800-da51-11eb-8438-b356d0efb55f.png" />
 
-### Step 17:
+### Step 17
 
 Now go to Import Projects
 
@@ -40,7 +42,7 @@ see: \<<https://github.com/espressif/idf-eclipse-plugin/blob/master/README.md#in
 
 YES
 
-### Step 18:
+### Step 18
 
 <img src="https://user-images.githubusercontent.com/69573151/124087513-5bf6b380-da52-11eb-905d-8f1383d09acc.png" />
 
@@ -50,7 +52,7 @@ C:\Users\Teacher\.espressif\tools\idf-git\2.30.1\cmd\git.exe
 
 C:\Users\Teacher\.espressif\python_env\idf4.3_py3.8_env\Scripts\python.exe
 
-### Step 20:
+### Step 20
 
 <<https://github.com/espressif/idf-eclipse-plugin/blob/master/README.md#configuring-launch-target>
 

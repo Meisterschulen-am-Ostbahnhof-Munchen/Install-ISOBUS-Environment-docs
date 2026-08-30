@@ -20,6 +20,7 @@ Das Hutschienenmoped verfügt über abgesicherte Ausgänge und flexible Anschlus
 - **Stromversorgung:** Die Spannungseinspeisung benötigt zum Leitungsschutz eine externe Sicherung.
 
 ### Pinbelegung
+
 ![Übersicht Pinbelegung](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/raw/main/images/Uebersicht2.jpeg)
 
 ---
@@ -29,6 +30,7 @@ Das Hutschienenmoped verfügt über abgesicherte Ausgänge und flexible Anschlus
 Das Gerät kann je nach Anwendungsfall unterschiedlich betrieben werden.
 
 ### Betrieb mit 4-poligem Kabel
+
 Für den Betrieb mit einem 4-poligen Kabel müssen **zwei Brücken** gesteckt werden.
 
 | Ansicht | Beschreibung |
@@ -59,4 +61,5 @@ Das Gehäuse ist für verschiedene Montageszenarien ausgelegt.
 ---
 
 ### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+
 - [🌐 Leiterplatten-Entwurf & Bestückung auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)

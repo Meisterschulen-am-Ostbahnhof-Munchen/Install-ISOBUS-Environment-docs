@@ -1,7 +1,11 @@
 # DIN Rail Moped Inputs
-## Differentiation of Limit Switches for Pneumatic Cylinders:
+
+## Differentiation of Limit Switches for Pneumatic Cylinders
+
 [https://www.ifm.com/at/de/shared/produkte/zylindersensoren/technologie](https://www.ifm.com/at/de/shared/produkte/zylindersensoren/technologie)
+
 ### Reed Switch
+
 A reed switch is an electrical switching element consisting of two ferromagnetic contacts inside a hermetically sealed glass tube. These contacts are held apart by a thin, flexible glass rod coated with a special metal alloy.
 The main characteristics of a reed switch are:
 
@@ -157,6 +161,7 @@ Multiplexers
 ---
 
 ### 🌐 Related Topic Subpages on ms-muc-docs.de
+
 - [🌐 Total Resistance in Series & Parallel Circuits on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/gesamtwiderstand-reihen-parallelschaltung/)
 - [🌐 Loaded & Unloaded Voltage Dividers on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/spannungsteiler/)
 - [🌐 Bipolar transistor fundamentals at ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/bipolartransistor/bipolarer-transistor/)

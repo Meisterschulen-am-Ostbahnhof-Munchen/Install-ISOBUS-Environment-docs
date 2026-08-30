@@ -13,11 +13,13 @@ sudo apt install git wget flex bison gperf python3 python3-pip python3-setuptool
 mit Yes bestätigen.
 
 Nun laden Sie ESP-IDF herunter.
+
 ```
 mkdir -p ~/esp
 cd ~/esp
 git clone --recursive https://github.com/espressif/esp-idf.git
 ```
+
 > ESP-IDF wird in diesen Ordner heruntergeladen:  `~/esp/esp-idf`
 
 Navigiere jetzt mit `cd ~/esp/esp-idf` in den Ordner. 

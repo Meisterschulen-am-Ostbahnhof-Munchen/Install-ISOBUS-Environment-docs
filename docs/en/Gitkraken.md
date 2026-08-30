@@ -1,4 +1,5 @@
-# 📦 Installing and using Gitkraken:
+# 📦 Installing and using Gitkraken
+
 Before you begin, please read the section on GitHub.
 
 

@@ -1,7 +1,11 @@
 # DINRailMoped
+
 ## 🎧 Podcast
+
 - [DINRailMoped XL: ISOBUS ECU Development](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Hutschienenmoped-XL-ISOBUS-ECU-Entwicklung-e368hdg)]
+
 ## 📂 Repository & Resources
+
 The source code and hardware files are located in the GitHub repository:
 [📂 GitHub: DINRailMoped](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/ISOBUS_Hardware/tree/master/Hutschienenmoped)]
 
@@ -15,6 +19,7 @@ The DIN rail moped features fused outputs and flexible connection options.
 - **Power Supply:** The power supply requires an external fuse for line protection.
 
 ### Pin Assignment
+
 ![Übersicht Pinbelegung](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/Install-ISOBUS-Environment-docs/raw/main/images/Uebersicht2.jpeg)
 
 ---
@@ -24,6 +29,7 @@ The DIN rail moped features fused outputs and flexible connection options.
 The device can be operated in different ways depending on the application.
 
 ### Operation with a 4-pin cable
+
 For operation with a 4-pin cable, **two jumpers** must be installed.
 
 | View | Description |
@@ -54,4 +60,5 @@ The housing is designed for various mounting scenarios.
 --
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
+
 - [🌐 PCB design & assembly on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)

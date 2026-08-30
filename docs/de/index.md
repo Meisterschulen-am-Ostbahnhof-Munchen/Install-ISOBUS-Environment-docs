@@ -19,6 +19,7 @@ myst:
 ---
 
 ### 📋 [Das steht im Lehrplan (Rahmenlehrplan 2025)](./das_steht_im_lehrplan.md)
+>
 > **Die C/C++-Programmierung für eingebettete Systeme** ist die technische Grundlage für die Implementierung normgerechter ISOBUS-Kommunikationsstacks (ISO 11783) an Land- und Baumaschinen (Teil I LE 1.4 sowie Teil II LE 1.1).
 
 - 📋 **[Das steht im Lehrplan – C-Programmierung in ISOBUS](./das_steht_im_lehrplan.md)**
