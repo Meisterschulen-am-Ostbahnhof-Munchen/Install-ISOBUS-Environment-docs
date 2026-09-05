@@ -1365,3 +1365,21 @@ Visit the main platform: #link("https://www.ms-muc-docs.de/")[#strong[www.ms-muc
 #strong[Wiki 4.2] | #strong[4diac Exercises: Training Solutions] Exercises and sample solutions for training with 4diac. | #link("https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/4diac-exercises-docs-de/en/latest/")[🧩 Open ] |
 
 #strong[Wiki 5] | #strong[Electronic Tools & Measuring Instruments] Handbook for crimping technology, soldering stations, oscilloscopes & microscopes. | #link("https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/en/latest/")[🛠️ Open ] |
+
+=== 📄 PDF Downloads for All Wikis
+
+#strong[Wiki 0 – Main Wiki] | #link("https://meisterschulen-am-ostbahnhof-munchen.github.io/.github/de/pdf/meisterschulen-wiki-de.pdf")[📄 DE] | #link("https://meisterschulen-am-ostbahnhof-munchen.github.io/.github/en/pdf/meisterschulen-wiki-en.pdf")[📄 EN] |
+
+#strong[Wiki 1 – C Programming in ISOBUS] | #link("https://meisterschulen-am-ostbahnhof-munchen.github.io/Install-ISOBUS-Environment-docs/de/pdf/install-isobus-environment-docs-de.pdf")[📄 DE] | #link("https://meisterschulen-am-ostbahnhof-munchen.github.io/Install-ISOBUS-Environment-docs/en/pdf/install-isobus-environment-docs-en.pdf")[📄 EN] |
+
+#strong[Wiki 2 – ISOBUS Virtual Terminal] | #link("https://meisterschulen-am-ostbahnhof-munchen.github.io/ISOBUS-VT-Objects-docs/de/pdf/isobus-vt-objects-docs-de.pdf")[📄 DE] | #link("https://meisterschulen-am-ostbahnhof-munchen.github.io/ISOBUS-VT-Objects-docs/en/pdf/isobus-vt-objects-docs-en.pdf")[📄 EN] |
+
+#strong[Wiki 3 – ISOBUS Technology & Machine Systems] | #link("https://meisterschulen-am-ostbahnhof-munchen.github.io/ISOBUS-other-docs/de/pdf/isobus-other-docs-de.pdf")[📄 DE] | #link("https://meisterschulen-am-ostbahnhof-munchen.github.io/ISOBUS-other-docs/en/pdf/isobus-other-docs-en.pdf")[📄 EN] |
+
+#strong[Wiki 4 – Visual Programming Languages] | #link("https://meisterschulen-am-ostbahnhof-munchen.github.io/visual-programming-languages-docs/de/pdf/visual-programming-languages-docs-de.pdf")[📄 DE] | #link("https://meisterschulen-am-ostbahnhof-munchen.github.io/visual-programming-languages-docs/en/pdf/visual-programming-languages-docs-en.pdf")[📄 EN] |
+
+#strong[Wiki 4.1 – 4diac Library Reference] | #link("https://meisterschulen-am-ostbahnhof-munchen.github.io/4diac-library-reference-docs/de/pdf/4diac-library-reference-docs-de.pdf")[📄 DE] | #link("https://meisterschulen-am-ostbahnhof-munchen.github.io/4diac-library-reference-docs/en/pdf/4diac-library-reference-docs-en.pdf")[📄 EN] |
+
+#strong[Wiki 4.2 – 4diac Exercises] | #link("https://meisterschulen-am-ostbahnhof-munchen.github.io/4diac-exercises-docs/de/pdf/4diac-exercises-docs-de.pdf")[📄 DE] | #link("https://meisterschulen-am-ostbahnhof-munchen.github.io/4diac-exercises-docs/en/pdf/4diac-exercises-docs-en.pdf")[📄 EN] |
+
+#strong[Wiki 5 – Electronic Tools] | #link("https://meisterschulen-am-ostbahnhof-munchen.github.io/werkzeug-docs/de/pdf/werkzeug-docs-de.pdf")[📄 DE] | #link("https://meisterschulen-am-ostbahnhof-munchen.github.io/werkzeug-docs/en/pdf/werkzeug-docs-en.pdf")[📄 EN] |
