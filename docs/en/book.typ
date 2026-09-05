@@ -1360,8 +1360,8 @@ Visit the main platform: #link("https://www.ms-muc-docs.de/")[#strong[www.ms-muc
 
 #strong[Wiki 4] | #strong[Visual Programming Languages] Low-code development, IEC 61499 & 4diac IDE (main curriculum topic). | #link("https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs/en/latest/")[🧩 Open ] |
 
-#strong[Wiki 5] | #strong[Electronic Tools & Measuring Instruments] Handbook for crimping technology, soldering stations, oscilloscopes & microscopes. | #link("https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/en/latest/")[🛠️ Open ] |
+#strong[Wiki 4.1] | #strong[4diac Library Reference] Function block & adapter reference for the 4diac libraries. | #link("https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/4diac-library-reference-docs-de/en/latest/")[🧩 Open ] |
+
+#strong[Wiki 4.2] | #strong[4diac Exercises: Training Solutions] Exercises and sample solutions for training with 4diac. | #link("https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/4diac-exercises-docs-de/en/latest/")[🧩 Open ] |
 
 #strong[Wiki 5] | #strong[Electronic Tools & Measuring Instruments] Handbook for crimping technology, soldering stations, oscilloscopes & microscopes. | #link("https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/en/latest/")[🛠️ Open ] |
-
-#strong[Wiki 5]

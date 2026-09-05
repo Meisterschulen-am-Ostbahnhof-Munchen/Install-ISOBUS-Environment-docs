@@ -1478,13 +1478,12 @@ Advantage: You don't have to build any hardware!
 
 | Wiki | Topic / Description | Link to ReadTheDocs |
 | :--- | :--- | :---: |
-**Wiki 0** | **Master School Wiki** <br> General information, Curriculum 2025 & Main Wiki. | [📖 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/) |
+| **Wiki 0** | **Master School Wiki** <br> General information, Curriculum 2025 & Main Wiki. | [📖 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/) |
 | **Wiki 1** | **C Programming in ISOBUS** <br> Fundamentals of C programming and the ISOBUS environment. | [🚜 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/en/latest/) |
 | **Wiki 2** | **ISOBUS Virtual Terminal (VT)** <br> User interfaces, ISO Designer, VT object pools & HMI. | [🖥️ Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-vt-objects-docs/en/latest/) |
 | **Wiki 3** | **ISOBUS Technology & Machine Systems** <br> Hydraulics, pneumatics, motors, high-voltage technology, gearboxes & machine safety. | [📡 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-other-docs/en/latest/) |
-**Wiki 4** | **Visual Programming Languages** <br> Low-code development, IEC 61499 & 4diac IDE (main curriculum topic). | [🧩 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs/en/latest/) |
-**Wiki 5** | **Electronic Tools & Measuring Instruments** <br> Handbook for crimping technology, soldering stations, oscilloscopes & microscopes. | [🛠️ Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/en/latest/) |
-**Wiki 5** | **Electronic Tools & Measuring Instruments** <br> Handbook for crimping technology, soldering stations, oscilloscopes & microscopes. | [🛠️ Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/en/latest/) |
-
-**Wiki 5**
+| **Wiki 4** | **Visual Programming Languages** <br> Low-code development, IEC 61499 & 4diac IDE (main curriculum topic). | [🧩 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs/en/latest/) |
+| **Wiki 4.1** | **4diac Library Reference** <br> Function block & adapter reference for the 4diac libraries. | [🧩 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/4diac-library-reference-docs-de/en/latest/) |
+| **Wiki 4.2** | **4diac Exercises: Training Solutions** <br> Exercises and sample solutions for training with 4diac. | [🧩 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/4diac-exercises-docs-de/en/latest/) |
+| **Wiki 5** | **Electronic Tools & Measuring Instruments** <br> Handbook for crimping technology, soldering stations, oscilloscopes & microscopes. | [🛠️ Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/en/latest/) |
 <!-- PAGE_END: das_steht_im_lehrplan.md -->
