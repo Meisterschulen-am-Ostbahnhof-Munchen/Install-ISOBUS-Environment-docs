@@ -1,6 +1,6 @@
 # blink_on_atom
 
-### Step 14
+## Step 14
 
 Now you can actually start Eclipse:
 For your first project, use this workspace:
@@ -9,17 +9,17 @@ C:\\git\\blink_on_atom\\eclipse-workspace
 
 ![PlatformIO Blink example - Step 14](https://user-images.githubusercontent.com/69573151/92934821-3effde00-f448-11ea-9631-7ec96373413a.png)
 
-### Step 15
+## Step 15
 
 Workbench --> Hide (top right)
 
 ![PlatformIO Blink example - Step 15](https://user-images.githubusercontent.com/69573151/124086686-9744b280-da51-11eb-847c-1629d53d2afb.png)
 
-### Step 16
+## Step 16
 
 ![PlatformIO Blink example - Step 16](https://user-images.githubusercontent.com/69573151/124086737-a4fa3800-da51-11eb-8438-b356d0efb55f.png)
 
-### Step 17
+## Step 17
 
 Now go to Import Projects
 
@@ -42,7 +42,7 @@ see: \<<https://github.com/espressif/idf-eclipse-plugin/blob/master/README.md#in
 
 YES
 
-### Step 18
+## Step 18
 
 ![PlatformIO Blink example - Step 18](https://user-images.githubusercontent.com/69573151/124087513-5bf6b380-da52-11eb-905d-8f1383d09acc.png)
 
@@ -52,7 +52,7 @@ C:\Users\Teacher\.espressif\tools\idf-git\2.30.1\cmd\git.exe
 
 C:\Users\Teacher\.espressif\python_env\idf4.3_py3.8_env\Scripts\python.exe
 
-### Step 20
+## Step 20
 
 <<https://github.com/espressif/idf-eclipse-plugin/blob/master/README.md#configuring-launch-target>
 
@@ -60,7 +60,7 @@ C:\Users\Teacher\.espressif\python_env\idf4.3_py3.8_env\Scripts\python.exe
 
 ![PlatformIO Blink example - Step 20](https://user-images.githubusercontent.com/69573151/124087878-ba239680-da52-11eb-8555-cc85060ff2ce.png)
 
-### Step 21
+## Step 21
 
 First press the hammer,
 
@@ -96,7 +96,7 @@ and the ATOM should be blinking.
 
 Familiarize yourself with the program.
 
-### Step 22
+## Step 22
 
 <https://github.com/espressif/idf-eclipse-plugin/blob/master/README.md#viewing-serial-output>
 
@@ -104,7 +104,7 @@ Familiarize yourself with the program.
 
 ![PlatformIO Blink example - Step 22](https://user-images.githubusercontent.com/69573151/92991174-2c39e780-f4e2-11ea-82ce-e757c7c6df74.png)
 
-### Modifying the Program
+## Modifying the Program
 
 For example, change the CHASE_SPEED to 10ms,
 

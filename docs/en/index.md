@@ -9,9 +9,9 @@ html_meta:
 "property=og:locale": "de"
 ---
 
-<img src="_static/logos/Meisterschulen_LogoG1_4c.gif" alt="Logo Meisterschulen am Ostbahnhof" width="400px" />
-
 # Wiki 1: C Programming in ISOBUS
+
+<img src="_static/logos/Meisterschulen_LogoG1_4c.gif" alt="Logo Meisterschulen am Ostbahnhof" width="400px" />
 
 ## Master Craftsmen's Schools at Munich East Station
 
