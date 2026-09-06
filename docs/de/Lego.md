@@ -57,6 +57,7 @@
 <img src="https://user-images.githubusercontent.com/69573151/96363305-b6a1e680-1133-11eb-8b77-791fa3c5f104.png" alt="Lego-Adapter Bauteilansicht 25" />
 
 <img src="https://user-images.githubusercontent.com/69573151/96363315-bdc8f480-1133-11eb-991b-5924454f815f.png" alt="Lego-Adapter Bauteilansicht 26" />
+
 ## 🎧 Podcast
 
 - [Eclipse 4diac FORTE: IEC 61499 verstehen – Der LEGO®-Baukasten für Ihre Industrie 4.0 Steuerung](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Eclipse-4diac-FORTE-IEC-61499-verstehen--Der-LEGO-Baukasten-fr-Ihre-Industrie-4-0-Steuerung-e3682kc)

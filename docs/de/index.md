@@ -10,9 +10,9 @@ myst:
 ---
 
 
-<img src="_static/logos/Meisterschulen_LogoG1_4c.gif" alt="Logo Meisterschulen am Ostbahnhof" width="400px" />
-
 # Wiki 1: C-Programmierung in ISOBUS
+
+<img src="_static/logos/Meisterschulen_LogoG1_4c.gif" alt="Logo Meisterschulen am Ostbahnhof" width="400px" />
 
 ## Meisterschulen am Ostbahnhof, München
 
@@ -44,7 +44,7 @@ Diese Dokumentation ist Teil der Wissensdatenbank der Meisterschulen am Ostbahnh
 !!! note
     This project is under active development.
 
-**Contents**
+## Contents
 
 
 
