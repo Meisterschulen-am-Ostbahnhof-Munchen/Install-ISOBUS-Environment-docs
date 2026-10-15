@@ -9,7 +9,7 @@ markdown_extensions:
 plugins:
   - search
 site_name: Grundlagen der C-Programmierung in ISOBUS (1)
-site_url: https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs-de/
+site_url: https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/de/latest/
 extra:
   alternate:
     - lang: de
